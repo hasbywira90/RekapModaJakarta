@@ -1,0 +1,30 @@
+{
+  "version": "2.1.0",
+  "generatedAt": "2026-10-03T14:50:07.204Z",
+  "revision": "7c6aa145be5f27b896823346338cbb3358e768452d6bcd341a34b0a5c43c4f42",
+  "bbox": [106.2519, -6.9709, 107.7148, -6.1094],
+  "files": {
+    "agencies": "agencies.json",
+    "routes": [
+      "routes.rail.json",
+      "routes.brt.json",
+      "routes.bus.json"
+    ],
+    "stops": [
+      "stops.json",
+      "stops.bus.json"
+    ],
+    "transfers": "transfers.json",
+    "landmarks": "landmarks.json",
+    "shapes": [
+      "shapes.json",
+      "shapes.bus.json"
+    ]
+  },
+  "counts": {
+    "agencies": 8,
+    "routes": 31,
+    "stops": 988,
+    "patterns": 66
+  }
+}

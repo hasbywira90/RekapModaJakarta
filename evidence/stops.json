@@ -1,0 +1,2283 @@
+{
+  "stops": [
+    {
+      "id": "ST-BHI",
+      "kind": "station",
+      "name": "Bundaran HI Bank Jakarta",
+      "nameEn": "Bundaran HI Bank Jakarta",
+      "lng": 106.823011,
+      "lat": -6.19185,
+      "modes": [
+        "metro"
+      ],
+      "routeIds": [
+        "MRT-NS"
+      ],
+      "accessible": true,
+      "clusterGroup": "bundaran-hi",
+      "crowdBaseline": "high",
+      "descriptionId": "Pusat pertemuan bisnis, ikon Selamat Datang, dan interchange MRT-TransJakarta.",
+      "descriptionEn": "Central business hub, Welcome Monument landmark, and MRT-TransJakarta interchange."
+    },
+    {
+      "id": "ST-DA",
+      "kind": "station",
+      "name": "Dukuh Atas BNI",
+      "nameEn": "Dukuh Atas BNI",
+      "lng": 106.822787,
+      "lat": -6.200794,
+      "modes": [
+        "metro"
+      ],
+      "routeIds": [
+        "MRT-NS"
+      ],
+      "accessible": true,
+      "clusterGroup": "dukuh-atas",
+      "crowdBaseline": "very-high",
+      "descriptionId": "Kawasan Berorientasi Transit (TOD) terbesar di Jakarta menghubungkan 5 moda transportasi.",
+      "descriptionEn": "Jakarta's premier Transit Oriented Development hub integrating 5 transit modes."
+    },
+    {
+      "id": "ST-SB",
+      "kind": "station",
+      "name": "Setiabudi Astra",
+      "nameEn": "Setiabudi Astra",
+      "lng": 106.821702,
+      "lat": -6.209072,
+      "modes": [
+        "metro"
+      ],
+      "routeIds": [
+        "MRT-NS"
+      ],
+      "accessible": true,
+      "crowdBaseline": "medium",
+      "descriptionId": "Kawasan perkantoran Sudirman dan akses Wisma 46.",
+      "descriptionEn": "Sudirman financial corridor and access to Wisma 46 Pen Tower."
+    },
+    {
+      "id": "ST-BH",
+      "kind": "station",
+      "name": "Bendungan Hilir",
+      "nameEn": "Bendungan Hilir",
+      "lng": 106.81795,
+      "lat": -6.215024,
+      "modes": [
+        "metro"
+      ],
+      "routeIds": [
+        "MRT-NS"
+      ],
+      "accessible": true,
+      "crowdBaseline": "high",
+      "descriptionId": "Koneksi halte TransJakarta Semanggi dan kawasan kuliner Benhil.",
+      "descriptionEn": "Direct connection to Semanggi BRT and Benhil dining district."
+    },
+    {
+      "id": "ST-IS",
+      "kind": "station",
+      "name": "Istora Mandiri",
+      "nameEn": "Istora Mandiri",
+      "lng": 106.808622,
+      "lat": -6.222388,
+      "modes": [
+        "metro"
+      ],
+      "routeIds": [
+        "MRT-NS"
+      ],
+      "accessible": true,
+      "clusterGroup": "senayan",
+      "crowdBaseline": "high",
+      "descriptionId": "Akses utama komplek Gelora Bung Karno (GBK) dan SCBD.",
+      "descriptionEn": "Primary gateway to Gelora Bung Karno Sports Complex and SCBD."
+    },
+    {
+      "id": "ST-SN",
+      "kind": "station",
+      "name": "Senayan Mastercard",
+      "nameEn": "Senayan Mastercard",
+      "lng": 106.80249,
+      "lat": -6.226733,
+      "modes": [
+        "metro"
+      ],
+      "routeIds": [
+        "MRT-NS"
+      ],
+      "accessible": true,
+      "clusterGroup": "senayan",
+      "crowdBaseline": "medium",
+      "descriptionId": "Akses ke Senayan City, Plaza Senayan, dan kementerian.",
+      "descriptionEn": "Access to Senayan shopping malls and ministries."
+    },
+    {
+      "id": "ST-AS",
+      "kind": "station",
+      "name": "ASEAN Headquarters",
+      "nameEn": "ASEAN Headquarters",
+      "lng": 106.798447,
+      "lat": -6.238771,
+      "modes": [
+        "metro"
+      ],
+      "routeIds": [
+        "MRT-NS"
+      ],
+      "accessible": true,
+      "crowdBaseline": "medium",
+      "descriptionId": "Integrasi skybridge layang CSW menuju Koridor 13 TransJakarta.",
+      "descriptionEn": "Elevated CSW skybridge hub integrating TransJakarta Corridor 13."
+    },
+    {
+      "id": "ST-BM",
+      "kind": "station",
+      "name": "Blok M BCA",
+      "nameEn": "Blok M BCA",
+      "lng": 106.798124,
+      "lat": -6.244423,
+      "modes": [
+        "metro"
+      ],
+      "routeIds": [
+        "MRT-NS"
+      ],
+      "accessible": true,
+      "clusterGroup": "blok-m",
+      "crowdBaseline": "very-high",
+      "descriptionId": "Terminal terpadu Blok M, M Bloc Space, dan pusat seni budaya Jakarta Selatan.",
+      "descriptionEn": "Blok M bus terminal, creative cultural hub, and southern anchor."
+    },
+    {
+      "id": "ST-BA",
+      "kind": "station",
+      "name": "Blok A VISA",
+      "nameEn": "Blok A VISA",
+      "lng": 106.797145,
+      "lat": -6.255785,
+      "modes": [
+        "metro"
+      ],
+      "routeIds": [
+        "MRT-NS"
+      ],
+      "accessible": true,
+      "crowdBaseline": "low",
+      "descriptionId": "Kawasan perumahan dan komersial Panglima Polim.",
+      "descriptionEn": "Residential and boutique commercial district in Panglima Polim."
+    },
+    {
+      "id": "ST-HN",
+      "kind": "station",
+      "name": "Haji Nawi",
+      "nameEn": "Haji Nawi",
+      "lng": 106.797325,
+      "lat": -6.266694,
+      "modes": [
+        "metro"
+      ],
+      "routeIds": [
+        "MRT-NS"
+      ],
+      "accessible": true,
+      "crowdBaseline": "medium",
+      "descriptionId": "Kawasan residensial Fatmawati dan perkantoran.",
+      "descriptionEn": "Fatmawati residential and retail corridor."
+    },
+    {
+      "id": "ST-CP",
+      "kind": "station",
+      "name": "Cipete Raya TUKU",
+      "nameEn": "Cipete Raya TUKU",
+      "lng": 106.797321,
+      "lat": -6.278368,
+      "modes": [
+        "metro"
+      ],
+      "routeIds": [
+        "MRT-NS"
+      ],
+      "accessible": true,
+      "crowdBaseline": "medium",
+      "descriptionId": "Pusat kafe, kuliner, dan komunitas kreatif Jakarta Selatan.",
+      "descriptionEn": "South Jakarta vibrant cafe and culinary corridor."
+    },
+    {
+      "id": "ST-FW",
+      "kind": "station",
+      "name": "Fatmawati Indomaret",
+      "nameEn": "Fatmawati Indomaret",
+      "lng": 106.792464,
+      "lat": -6.29245,
+      "modes": [
+        "metro"
+      ],
+      "routeIds": [
+        "MRT-NS"
+      ],
+      "accessible": true,
+      "crowdBaseline": "high",
+      "descriptionId": "Akses tol JORR, Cilandak Town Square, dan RS Fatmawati.",
+      "descriptionEn": "Gateway to JORR highway, Cilandak, and Fatmawati Hospital."
+    },
+    {
+      "id": "ST-LB",
+      "kind": "station",
+      "name": "Lebak Bulus Bank Syariah Indonesia",
+      "nameEn": "Lebak Bulus Bank Syariah Indonesia",
+      "aliases": [
+        "Lebak Bulus Grab"
+      ],
+      "lng": 106.774935,
+      "lat": -6.289275,
+      "modes": [
+        "metro"
+      ],
+      "routeIds": [
+        "MRT-NS"
+      ],
+      "accessible": true,
+      "clusterGroup": "lebak-bulus",
+      "crowdBaseline": "very-high",
+      "descriptionId": "Depo MRT Jakarta, terminal bus antar kota, dan hub penglaju selatan.",
+      "descriptionEn": "MRT South Depot, intercity bus terminal, and commuter hub."
+    },
+    {
+      "id": "ST-MRI",
+      "kind": "station",
+      "name": "Manggarai",
+      "nameEn": "Manggarai",
+      "aliases": [
+        "Manggarai Central"
+      ],
+      "lng": 106.849727,
+      "lat": -6.21023,
+      "modes": [
+        "commuter",
+        "airport"
+      ],
+      "routeIds": [
+        "KRL-B",
+        "KRL-C",
+        "KRL-A"
+      ],
+      "accessible": true,
+      "crowdBaseline": "very-high",
+      "descriptionId": "Stasiun sentral kereta komuter tersibuk di Asia Tenggara.",
+      "descriptionEn": "The busiest central commuter rail hub in Southeast Asia."
+    },
+    {
+      "id": "ST-THB",
+      "kind": "station",
+      "name": "Tanah Abang",
+      "nameEn": "Tanah Abang",
+      "lng": 106.810746,
+      "lat": -6.184457,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-C",
+        "KRL-R"
+      ],
+      "accessible": false,
+      "crowdBaseline": "very-high",
+      "descriptionId": "Pusat tekstil terbesar di Asia Tenggara dan stasiun transit tersibuk barat-timur.",
+      "descriptionEn": "Largest textile wholesale market in SEA and vital rail transfer station."
+    },
+    {
+      "id": "ST-JAKK",
+      "kind": "station",
+      "name": "Jakarta Kota",
+      "nameEn": "Jakarta Kota",
+      "lng": 106.816087,
+      "lat": -6.137345,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B",
+        "KRL-TP"
+      ],
+      "accessible": false,
+      "clusterGroup": "kota",
+      "crowdBaseline": "high",
+      "descriptionId": "Stasiun cagar budaya Beos di jantung Kota Tua Batavia.",
+      "descriptionEn": "Historic Art Deco terminus station located in Old Batavia heritage district."
+    },
+    {
+      "id": "ST-HLM",
+      "kind": "station",
+      "name": "Halim",
+      "nameEn": "Halim",
+      "aliases": [
+        "Halim Hub"
+      ],
+      "lng": 106.884488,
+      "lat": -6.245637,
+      "modes": [
+        "hsr"
+      ],
+      "routeIds": [
+        "KCIC-W"
+      ],
+      "accessible": true,
+      "crowdBaseline": "high",
+      "descriptionId": "Interchange modern Kereta Cepat Whoosh dan LRT Jabodebek.",
+      "descriptionEn": "Modern interchange connecting Whoosh High Speed Rail and LRT Jabodebek."
+    },
+    {
+      "id": "ST-SB-LRT",
+      "kind": "station",
+      "name": "Setiabudi",
+      "nameEn": "Setiabudi",
+      "lng": 106.830241,
+      "lat": -6.209339,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-CB",
+        "LRT-BK"
+      ],
+      "accessible": true,
+      "clusterGroup": "setiabudi",
+      "crowdBaseline": "high",
+      "descriptionId": "Halte layang LRT di koridor Rasuna Said, terhubung skybridge ke Dukuh Atas.",
+      "descriptionEn": "Elevated LRT stop on Rasuna Said corridor with skybridge link to Dukuh Atas."
+    },
+    {
+      "id": "ST-RS",
+      "kind": "station",
+      "name": "Rasuna Said",
+      "nameEn": "Rasuna Said",
+      "lng": 106.832243,
+      "lat": -6.221637,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-CB",
+        "LRT-BK"
+      ],
+      "accessible": true,
+      "crowdBaseline": "high",
+      "descriptionId": "Akses kawasan kedutaan, perkantoran Kuningan, dan St. Maneuver.",
+      "descriptionEn": "Embassy row and Kuningan office district access."
+    },
+    {
+      "id": "ST-KN",
+      "kind": "station",
+      "name": "Kuningan",
+      "nameEn": "Kuningan",
+      "lng": 106.833202,
+      "lat": -6.228785,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-CB",
+        "LRT-BK"
+      ],
+      "accessible": true,
+      "clusterGroup": "kuningan",
+      "crowdBaseline": "medium",
+      "descriptionId": "Gerbang distrik bisnis Mega Kuningan dan pusat perbelanjaan.",
+      "descriptionEn": "Gateway to Mega Kuningan business district and malls."
+    },
+    {
+      "id": "ST-PC",
+      "kind": "station",
+      "name": "Pancoran",
+      "nameEn": "Pancoran",
+      "aliases": [
+        "Pancoran Bank BJB"
+      ],
+      "lng": 106.838518,
+      "lat": -6.242136,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-CB",
+        "LRT-BK"
+      ],
+      "accessible": true,
+      "clusterGroup": "pancoran",
+      "crowdBaseline": "medium",
+      "descriptionId": "Simpul layang Pancoran dengan Tugu Dirgantara Pancoran.",
+      "descriptionEn": "Pancoran flyover junction by the Dirgantara aerospace monument."
+    },
+    {
+      "id": "ST-CK",
+      "kind": "station",
+      "name": "Cikoko",
+      "nameEn": "Cikoko",
+      "lng": 106.857072,
+      "lat": -6.243467,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-CB",
+        "LRT-BK"
+      ],
+      "accessible": true,
+      "clusterGroup": "cawang",
+      "crowdBaseline": "high",
+      "descriptionId": "Interchange LRT-KRL Cawang dengan jembatan penyeberangan terpadu.",
+      "descriptionEn": "LRT-KRL interchange at Cawang with integrated footbridge."
+    },
+    {
+      "id": "ST-CL",
+      "kind": "station",
+      "name": "Ciliwung",
+      "nameEn": "Ciliwung",
+      "lng": 106.863971,
+      "lat": -6.243447,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-CB",
+        "LRT-BK"
+      ],
+      "accessible": true,
+      "crowdBaseline": "low",
+      "descriptionId": "Halte residensial tepi Kali Ciliwung, Bidara Cina.",
+      "descriptionEn": "Residential stop by the Ciliwung river, Bidara Cina."
+    },
+    {
+      "id": "ST-CW",
+      "kind": "station",
+      "name": "Cawang",
+      "nameEn": "Cawang",
+      "lng": 106.871229,
+      "lat": -6.245907,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-CB",
+        "LRT-BK"
+      ],
+      "accessible": true,
+      "clusterGroup": "cawang",
+      "crowdBaseline": "very-high",
+      "descriptionId": "Simpul sentral LRT Jabodebek pemisah cabang Cibubur-Bekasi.",
+      "descriptionEn": "Central LRT Jabodebek junction splitting Cibubur-Bekasi branches."
+    },
+    {
+      "id": "ST-TMII",
+      "kind": "station",
+      "name": "Taman Mini",
+      "nameEn": "Taman Mini",
+      "aliases": [
+        "TMII"
+      ],
+      "lng": 106.88056,
+      "lat": -6.292908,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-CB"
+      ],
+      "accessible": true,
+      "crowdBaseline": "medium",
+      "descriptionId": "Akses Taman Mini Indonesia Indah dan Museum Indonesia.",
+      "descriptionEn": "Access to Taman Mini Indonesia Indah cultural park."
+    },
+    {
+      "id": "ST-KR",
+      "kind": "station",
+      "name": "Kampung Rambutan",
+      "nameEn": "Kampung Rambutan",
+      "lng": 106.884381,
+      "lat": -6.309549,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-CB"
+      ],
+      "accessible": true,
+      "clusterGroup": "kampung-rambutan",
+      "crowdBaseline": "high",
+      "descriptionId": "Integrasi terminal bus antar kota Kampung Rambutan.",
+      "descriptionEn": "Integrated with Kampung Rambutan intercity bus terminal."
+    },
+    {
+      "id": "ST-CR",
+      "kind": "station",
+      "name": "Ciracas",
+      "nameEn": "Ciracas",
+      "lng": 106.88664,
+      "lat": -6.323769,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-CB"
+      ],
+      "accessible": true,
+      "crowdBaseline": "low",
+      "descriptionId": "Kawasan residensial Cibubur-Ciracas Jakarta Timur.",
+      "descriptionEn": "Residential corridor of Cibubur-Ciracas, East Jakarta."
+    },
+    {
+      "id": "ST-HM",
+      "kind": "station",
+      "name": "Harjamukti",
+      "nameEn": "Harjamukti",
+      "lng": 106.895669,
+      "lat": -6.373893,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-CB"
+      ],
+      "accessible": true,
+      "crowdBaseline": "high",
+      "descriptionId": "Terminus LRT Cibubur dan hub TransJakarta Cibubur.",
+      "descriptionEn": "Cibubur LRT terminus and TransJakarta hub."
+    },
+    {
+      "id": "ST-JB",
+      "kind": "station",
+      "name": "Jatibening Baru",
+      "nameEn": "Jatibening Baru",
+      "lng": 106.927916,
+      "lat": -6.257723,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-BK"
+      ],
+      "accessible": true,
+      "crowdBaseline": "low",
+      "descriptionId": "Halte perumahan Jati Bening, gerbang Tol Becakayu.",
+      "descriptionEn": "Jati Bening residential stop by Becakayu toll gate."
+    },
+    {
+      "id": "ST-CK1",
+      "kind": "station",
+      "name": "Cikunir 1",
+      "nameEn": "Cikunir 1",
+      "lng": 106.951866,
+      "lat": -6.256599,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-BK"
+      ],
+      "accessible": true,
+      "crowdBaseline": "medium",
+      "descriptionId": "Kawasan industri dan pergudangan Cikunir.",
+      "descriptionEn": "Cikunir industrial and logistics corridor."
+    },
+    {
+      "id": "ST-CK2",
+      "kind": "station",
+      "name": "Cikunir 2",
+      "nameEn": "Cikunir 2",
+      "lng": 106.963175,
+      "lat": -6.254665,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-BK"
+      ],
+      "accessible": true,
+      "crowdBaseline": "medium",
+      "descriptionId": "Akses Jakasampurna dan Kalimalang Bekasi Barat.",
+      "descriptionEn": "Jakasampurna and West Bekasi Kalimalang access."
+    },
+    {
+      "id": "ST-BB",
+      "kind": "station",
+      "name": "Bekasi Barat",
+      "nameEn": "Bekasi Barat",
+      "lng": 106.990425,
+      "lat": -6.252946,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-BK"
+      ],
+      "accessible": true,
+      "crowdBaseline": "medium",
+      "descriptionId": "Gerbang pusat perbelanjaan dan Kota Harapan Indah.",
+      "descriptionEn": "Gateway to malls and Harapan Indah township."
+    },
+    {
+      "id": "ST-JM",
+      "kind": "station",
+      "name": "Jatimulya",
+      "nameEn": "Jatimulya",
+      "lng": 107.021668,
+      "lat": -6.264107,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-BK"
+      ],
+      "accessible": true,
+      "crowdBaseline": "high",
+      "descriptionId": "Terminus LRT Bekasi Timur dan depo Jatimulya.",
+      "descriptionEn": "Eastern LRT terminus and Jatimulya depot."
+    },
+    {
+      "id": "ST-PGD",
+      "kind": "station",
+      "name": "Kelapa Gading",
+      "nameEn": "Kelapa Gading",
+      "aliases": [
+        "Pegangsaan Dua"
+      ],
+      "lng": 106.914208,
+      "lat": -6.157425,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-JK"
+      ],
+      "accessible": true,
+      "crowdBaseline": "medium",
+      "descriptionId": "Terminus utara LRT Jakarta di Kelapa Gading.",
+      "descriptionEn": "Northern LRT Jakarta terminus at Kelapa Gading."
+    },
+    {
+      "id": "ST-BLU",
+      "kind": "station",
+      "name": "Boulevard Utara Summarecon Mall",
+      "nameEn": "Boulevard Utara Summarecon Mall",
+      "lng": 106.905996,
+      "lat": -6.159452,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-JK"
+      ],
+      "accessible": true,
+      "crowdBaseline": "medium",
+      "descriptionId": "Koridor ritel Boulevard Kelapa Gading.",
+      "descriptionEn": "Kelapa Gading Boulevard retail corridor."
+    },
+    {
+      "id": "ST-BLS",
+      "kind": "station",
+      "name": "Boulevard Selatan",
+      "nameEn": "Boulevard Selatan",
+      "lng": 106.899856,
+      "lat": -6.169218,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-JK"
+      ],
+      "accessible": true,
+      "crowdBaseline": "medium",
+      "descriptionId": "Akses Mal Kelapa Gading dan perkantoran.",
+      "descriptionEn": "Mall of Kelapa Gading and office access."
+    },
+    {
+      "id": "ST-PLM",
+      "kind": "station",
+      "name": "Pulomas",
+      "nameEn": "Pulomas",
+      "lng": 106.893451,
+      "lat": -6.177233,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-JK"
+      ],
+      "accessible": true,
+      "clusterGroup": "pulomas",
+      "crowdBaseline": "medium",
+      "descriptionId": "Kawasan pacuan kuda legendaris dan Equestrian Park.",
+      "descriptionEn": "Historic Pulomas racecourse and equestrian park district."
+    },
+    {
+      "id": "ST-EQS",
+      "kind": "station",
+      "name": "Equestrian",
+      "nameEn": "Equestrian",
+      "lng": 106.891351,
+      "lat": -6.183557,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-JK"
+      ],
+      "accessible": true,
+      "crowdBaseline": "low",
+      "descriptionId": "Halte arena berkuda Asian Games 2018.",
+      "descriptionEn": "Asian Games 2018 equestrian arena stop."
+    },
+    {
+      "id": "ST-VLD",
+      "kind": "station",
+      "name": "Velodrome",
+      "nameEn": "Velodrome",
+      "lng": 106.891195,
+      "lat": -6.192122,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-JK"
+      ],
+      "accessible": true,
+      "clusterGroup": "velodrome",
+      "crowdBaseline": "high",
+      "descriptionId": "Terminus Rawamangun: Velodrome, Arion, dan terminal bus.",
+      "descriptionEn": "Rawamangun terminus: Velodrome stadium and bus terminal."
+    },
+    {
+      "id": "ST-JAY",
+      "kind": "station",
+      "name": "Jayakarta",
+      "nameEn": "Jayakarta",
+      "lng": 106.82317,
+      "lat": -6.141412,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium",
+      "descriptionId": "Kawasan perdagangan Mangga Dua dan Kota Tua barat.",
+      "descriptionEn": "Mangga Dua trade district and western Old Town."
+    },
+    {
+      "id": "ST-MGB",
+      "kind": "station",
+      "name": "Mangga Besar",
+      "nameEn": "Mangga Besar",
+      "lng": 106.827034,
+      "lat": -6.150046,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "crowdBaseline": "high",
+      "descriptionId": "Pusat kuliner legendaris dan kawasan Pecenongan-Lokasari.",
+      "descriptionEn": "Legendary culinary strip near Pecenongan-Lokasari."
+    },
+    {
+      "id": "ST-SWB",
+      "kind": "station",
+      "name": "Sawah Besar",
+      "nameEn": "Sawah Besar",
+      "lng": 106.827772,
+      "lat": -6.160614,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium",
+      "descriptionId": "Koridor perkantoran Gajah Mada-Hayam Wuruk.",
+      "descriptionEn": "Gajah Mada-Hayam Wuruk office corridor."
+    },
+    {
+      "id": "ST-JUA",
+      "kind": "station",
+      "name": "Juanda",
+      "nameEn": "Juanda",
+      "lng": 106.830311,
+      "lat": -6.166357,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "clusterGroup": "juanda",
+      "crowdBaseline": "high",
+      "descriptionId": "Akses Masjid Istiqlal, Katedral, dan Pasar Baru.",
+      "descriptionEn": "Access to Istiqlal Mosque, Cathedral, and Pasar Baru."
+    },
+    {
+      "id": "ST-GDD",
+      "kind": "station",
+      "name": "Gondangdia",
+      "nameEn": "Gondangdia",
+      "lng": 106.832656,
+      "lat": -6.185746,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium",
+      "descriptionId": "Kawasan Menteng heritage dan kantor BUMN Cikini.",
+      "descriptionEn": "Menteng heritage quarter and Cikini state-enterprise offices."
+    },
+    {
+      "id": "ST-CKI",
+      "kind": "station",
+      "name": "Cikini",
+      "nameEn": "Cikini",
+      "lng": 106.841145,
+      "lat": -6.198397,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium",
+      "descriptionId": "Pusat seni Taman Ismail Marzuki dan kampus IKJ.",
+      "descriptionEn": "Taman Ismail Marzuki arts centre and IKJ campus."
+    },
+    {
+      "id": "ST-TEB",
+      "kind": "station",
+      "name": "Tebet",
+      "nameEn": "Tebet",
+      "lng": 106.858425,
+      "lat": -6.226731,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "crowdBaseline": "high",
+      "descriptionId": "Kawasan padat Tebet dan Eco Park Tebet.",
+      "descriptionEn": "Dense Tebet neighbourhood and Tebet Eco Park."
+    },
+    {
+      "id": "ST-CW-KRL",
+      "kind": "station",
+      "name": "Cawang",
+      "nameEn": "Cawang",
+      "lng": 106.858672,
+      "lat": -6.24176,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "clusterGroup": "cawang",
+      "crowdBaseline": "high",
+      "descriptionId": "Stasiun KRL layang Cawang, interchange ke LRT via skybridge.",
+      "descriptionEn": "Elevated Cawang commuter station, skybridge to LRT."
+    },
+    {
+      "id": "ST-DRN",
+      "kind": "station",
+      "name": "Duren Kalibata",
+      "nameEn": "Duren Kalibata",
+      "lng": 106.855503,
+      "lat": -6.254428,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium",
+      "descriptionId": "Akses Taman Makam Pahlawan Kalibata.",
+      "descriptionEn": "Access to Kalibata Heroes Cemetery park."
+    },
+    {
+      "id": "ST-PSMB",
+      "kind": "station",
+      "name": "Pasar Minggu Baru",
+      "nameEn": "Pasar Minggu Baru",
+      "lng": 106.851538,
+      "lat": -6.263351,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "crowdBaseline": "low",
+      "descriptionId": "Halte komuter Pejaten-Pasar Minggu Baru.",
+      "descriptionEn": "Pejaten-Pasar Minggu Baru commuter halt."
+    },
+    {
+      "id": "ST-PSM",
+      "kind": "station",
+      "name": "Pasar Minggu",
+      "nameEn": "Pasar Minggu",
+      "lng": 106.844973,
+      "lat": -6.282633,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "crowdBaseline": "high",
+      "descriptionId": "Terminus selatan: pasar tradisional dan Ragunan.",
+      "descriptionEn": "Southern terminus: traditional market and Ragunan zoo access."
+    },
+    {
+      "id": "ST-JNG",
+      "kind": "station",
+      "name": "Jatinegara",
+      "nameEn": "Jatinegara",
+      "lng": 106.870686,
+      "lat": -6.214908,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-C"
+      ],
+      "accessible": false,
+      "crowdBaseline": "very-high",
+      "descriptionId": "Stasiun hub Jakarta Timur: pasar, terminal Kampung Melayu.",
+      "descriptionEn": "East Jakarta rail hub near Jatinegara market."
+    },
+    {
+      "id": "ST-MTR",
+      "kind": "station",
+      "name": "Matraman",
+      "nameEn": "Matraman",
+      "lng": 106.859892,
+      "lat": -6.212513,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-C"
+      ],
+      "accessible": false,
+      "clusterGroup": "matraman",
+      "crowdBaseline": "medium",
+      "descriptionId": "Koridor Jatinegara-Matraman dan Kampung Melayu.",
+      "descriptionEn": "Jatinegara-Matraman corridor and Kampung Melayu."
+    },
+    {
+      "id": "ST-SUD",
+      "kind": "station",
+      "name": "Sudirman",
+      "nameEn": "Sudirman",
+      "lng": 106.824339,
+      "lat": -6.20262,
+      "modes": [
+        "commuter",
+        "airport"
+      ],
+      "routeIds": [
+        "KRL-C",
+        "KRL-A"
+      ],
+      "accessible": false,
+      "clusterGroup": "dukuh-atas",
+      "crowdBaseline": "very-high",
+      "descriptionId": "Stasiun BNI City-Sudirman Baru, jantung SCBD.",
+      "descriptionEn": "BNI City stop at the heart of SCBD."
+    },
+    {
+      "id": "ST-DUR",
+      "kind": "station",
+      "name": "Duri",
+      "nameEn": "Duri",
+      "lng": 106.801274,
+      "lat": -6.155216,
+      "modes": [
+        "commuter",
+        "airport"
+      ],
+      "routeIds": [
+        "KRL-C",
+        "KRL-T",
+        "KRL-A"
+      ],
+      "accessible": true,
+      "crowdBaseline": "high",
+      "descriptionId": "Simpul KRL Tangerang-Cikarang-Bandara di Jakarta Barat.",
+      "descriptionEn": "West Jakarta junction for Tangerang-Cikarang-Airport lines."
+    },
+    {
+      "id": "ST-AK",
+      "kind": "station",
+      "name": "Angke",
+      "nameEn": "Angke",
+      "lng": 106.800713,
+      "lat": -6.14469,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-C"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium",
+      "descriptionId": "Koridor Tambora dan pasar grosir Jembatan Lima.",
+      "descriptionEn": "Tambora corridor and Jembatan Lima wholesale market."
+    },
+    {
+      "id": "ST-KPB",
+      "kind": "station",
+      "name": "Kampung Bandan",
+      "nameEn": "Kampung Bandan",
+      "lng": 106.828125,
+      "lat": -6.132681,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-C",
+        "KRL-TP"
+      ],
+      "accessible": false,
+      "crowdBaseline": "high",
+      "descriptionId": "Stasiun layang Ancol-Mangga Dua dengan panorama Teluk Jakarta.",
+      "descriptionEn": "Elevated Ancol-Mangga Dua station overlooking Jakarta Bay."
+    },
+    {
+      "id": "ST-RJW",
+      "kind": "station",
+      "name": "Rajawali",
+      "nameEn": "Rajawali",
+      "lng": 106.836899,
+      "lat": -6.145369,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-C"
+      ],
+      "accessible": false,
+      "crowdBaseline": "low",
+      "descriptionId": "Halte komuter Gunung Sahari-Rajawali.",
+      "descriptionEn": "Gunung Sahari-Rajawali commuter halt."
+    },
+    {
+      "id": "ST-KMY",
+      "kind": "station",
+      "name": "Kemayoran",
+      "nameEn": "Kemayoran",
+      "lng": 106.841494,
+      "lat": -6.161659,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-C"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium",
+      "descriptionId": "Bekas Bandara Kemayoran: JIExpo dan Kota Baru Bandar Kemayoran.",
+      "descriptionEn": "Former Kemayoran airport: JIExpo fairground district."
+    },
+    {
+      "id": "ST-PSE",
+      "kind": "station",
+      "name": "Pasar Senen",
+      "nameEn": "Pasar Senen",
+      "lng": 106.844095,
+      "lat": -6.172757,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-C"
+      ],
+      "accessible": false,
+      "clusterGroup": "senen",
+      "crowdBaseline": "very-high",
+      "descriptionId": "Terminus kereta jarak jauh dan pasar legendaris Senen.",
+      "descriptionEn": "Long-distance rail terminus and legendary Senen market."
+    },
+    {
+      "id": "ST-PLM-KRL",
+      "kind": "station",
+      "name": "Palmerah",
+      "nameEn": "Palmerah",
+      "lng": 106.79758,
+      "lat": -6.207212,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-R"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium",
+      "descriptionId": "Akses TVRI, pasar Palmerah, dan GBK barat.",
+      "descriptionEn": "TVRI complex, Palmerah market, western GBK access."
+    },
+    {
+      "id": "ST-KBY",
+      "kind": "station",
+      "name": "Kebayoran",
+      "nameEn": "Kebayoran",
+      "lng": 106.78262,
+      "lat": -6.236919,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-R"
+      ],
+      "accessible": false,
+      "crowdBaseline": "high",
+      "descriptionId": "Stasiun heritage Kebayoran Lama dan Blok M selatan.",
+      "descriptionEn": "Heritage Kebayoran Lama station, south of Blok M."
+    },
+    {
+      "id": "ST-PDJ",
+      "kind": "station",
+      "name": "Pondok Ranji",
+      "nameEn": "Pondok Ranji",
+      "lng": 106.744387,
+      "lat": -6.276962,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-R"
+      ],
+      "accessible": false,
+      "crowdBaseline": "low",
+      "descriptionId": "Perbatasan Ciputat: kawasan residensial Bintaro.",
+      "descriptionEn": "Ciputat border: Bintaro residential district."
+    },
+    {
+      "id": "ST-JMG",
+      "kind": "station",
+      "name": "Jurangmangu",
+      "nameEn": "Jurangmangu",
+      "lng": 106.728374,
+      "lat": -6.289138,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-R"
+      ],
+      "accessible": false,
+      "crowdBaseline": "low",
+      "descriptionId": "Halte Bintaro Jaya dan CBD Bintaro.",
+      "descriptionEn": "Bintaro Jaya township and CBD halt."
+    },
+    {
+      "id": "ST-SDM",
+      "kind": "station",
+      "name": "Sudimara",
+      "nameEn": "Sudimara",
+      "lng": 106.712802,
+      "lat": -6.296763,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-R"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium",
+      "descriptionId": "Gerbang Ciputat-Jombang Tangerang Selatan.",
+      "descriptionEn": "Ciputat-Jombang gateway in South Tangerang."
+    },
+    {
+      "id": "ST-RWB",
+      "kind": "station",
+      "name": "Rawa Buntu",
+      "nameEn": "Rawa Buntu",
+      "lng": 106.675915,
+      "lat": -6.315028,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-R"
+      ],
+      "accessible": false,
+      "crowdBaseline": "high",
+      "descriptionId": "Terminus BSD City dan ICE Convention Centre.",
+      "descriptionEn": "BSD City terminus and ICE convention centre."
+    },
+    {
+      "id": "ST-BNC",
+      "kind": "station",
+      "name": "BNI City",
+      "nameEn": "BNI City",
+      "lng": 106.819711,
+      "lat": -6.201593,
+      "modes": [
+        "commuter",
+        "airport"
+      ],
+      "routeIds": [
+        "KRL-C",
+        "KRL-A"
+      ],
+      "accessible": true,
+      "clusterGroup": "dukuh-atas",
+      "crowdBaseline": "very-high",
+      "descriptionId": "Stasiun bandara modern terhubung MRT Dukuh Atas via terowongan.",
+      "descriptionEn": "Modern airport rail station linked to MRT Dukuh Atas."
+    },
+    {
+      "id": "ST-RB",
+      "kind": "station",
+      "name": "Rawa Buaya",
+      "nameEn": "Rawa Buaya",
+      "lng": 106.72277,
+      "lat": -6.162748,
+      "modes": [
+        "commuter",
+        "airport"
+      ],
+      "routeIds": [
+        "KRL-T",
+        "KRL-A"
+      ],
+      "accessible": true,
+      "crowdBaseline": "low",
+      "descriptionId": "Koridor pergudangan Cengkareng-Rawa Buaya.",
+      "descriptionEn": "Cengkareng-Rawa Buaya logistics corridor."
+    },
+    {
+      "id": "ST-BPR",
+      "kind": "station",
+      "name": "Batu Ceper",
+      "nameEn": "Batu Ceper",
+      "lng": 106.665062,
+      "lat": -6.172112,
+      "modes": [
+        "commuter",
+        "airport"
+      ],
+      "routeIds": [
+        "KRL-T",
+        "KRL-A"
+      ],
+      "accessible": true,
+      "crowdBaseline": "medium",
+      "descriptionId": "Hub Tangerang kota dan Poris Plawad.",
+      "descriptionEn": "Tangerang city hub and Poris terminal."
+    },
+    {
+      "id": "ST-BST",
+      "kind": "station",
+      "name": "Bandara Soekarno-Hatta",
+      "nameEn": "Soekarno-Hatta Airport",
+      "aliases": [
+        "Bandara Soetta"
+      ],
+      "lng": 106.651044,
+      "lat": -6.127881,
+      "modes": [
+        "airport"
+      ],
+      "routeIds": [
+        "KRL-A"
+      ],
+      "accessible": true,
+      "crowdBaseline": "very-high",
+      "descriptionId": "Terminus Kereta Bandara di Terminal 1-3 Soekarno-Hatta.",
+      "descriptionEn": "Airport rail terminus at Soekarno-Hatta Terminals 1-3."
+    },
+    {
+      "id": "ST-KRW",
+      "kind": "station",
+      "name": "Karawang",
+      "nameEn": "Karawang",
+      "lng": 107.21899,
+      "lat": -6.364679,
+      "modes": [
+        "hsr"
+      ],
+      "routeIds": [
+        "KCIC-W"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium",
+      "descriptionId": "Stasiun Whoosh Karawang: kawasan industri KIIC.",
+      "descriptionEn": "Whoosh Karawang stop serving KIIC industrial city."
+    },
+    {
+      "id": "ST-PDL",
+      "kind": "station",
+      "name": "Padalarang",
+      "nameEn": "Padalarang",
+      "lng": 107.496421,
+      "lat": -6.841626,
+      "modes": [
+        "hsr"
+      ],
+      "routeIds": [
+        "KCIC-W"
+      ],
+      "accessible": false,
+      "crowdBaseline": "high",
+      "descriptionId": "Interchange Whoosh-Kereta Feeder Bandung.",
+      "descriptionEn": "Whoosh-Bandung feeder interchange."
+    },
+    {
+      "id": "ST-TGL",
+      "kind": "station",
+      "name": "Tegalluar Summarecon",
+      "nameEn": "Tegalluar Summarecon",
+      "lng": 107.714701,
+      "lat": -6.963808,
+      "modes": [
+        "hsr"
+      ],
+      "routeIds": [
+        "KCIC-W"
+      ],
+      "accessible": false,
+      "crowdBaseline": "high",
+      "descriptionId": "Terminus Whoosh Bandung di Summarecon Gedebage.",
+      "descriptionEn": "Bandung Whoosh terminus at Summarecon Gedebage."
+    },
+    {
+      "id": "ST-DA-LRT",
+      "kind": "station",
+      "name": "Dukuh Atas Bank Syariah Indonesia",
+      "nameEn": "Dukuh Atas Bank Syariah Indonesia",
+      "lng": 106.82553,
+      "lat": -6.204828,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-CB",
+        "LRT-BK"
+      ],
+      "accessible": true,
+      "clusterGroup": "dukuh-atas",
+      "crowdBaseline": "high"
+    },
+    {
+      "id": "ST-HLM-LRT",
+      "kind": "station",
+      "name": "Halim",
+      "nameEn": "Halim",
+      "lng": 106.887288,
+      "lat": -6.245865,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-BK"
+      ],
+      "accessible": true,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-RWM",
+      "kind": "station",
+      "name": "Rawamangun",
+      "nameEn": "Rawamangun",
+      "lng": 106.882474,
+      "lat": -6.193133,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-JK"
+      ],
+      "accessible": true,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-PRM",
+      "kind": "station",
+      "name": "Pramuka",
+      "nameEn": "Pramuka",
+      "lng": 106.8709,
+      "lat": -6.191999,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-JK"
+      ],
+      "accessible": true,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-MTR-LRT",
+      "kind": "station",
+      "name": "Matraman",
+      "nameEn": "Matraman",
+      "lng": 106.860001,
+      "lat": -6.19507,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-JK"
+      ],
+      "accessible": true,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-PRK",
+      "kind": "station",
+      "name": "Proklamasi",
+      "nameEn": "Proklamasi",
+      "lng": 106.850244,
+      "lat": -6.202094,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-JK"
+      ],
+      "accessible": true,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-MRI-LRT",
+      "kind": "station",
+      "name": "Manggarai",
+      "nameEn": "Manggarai",
+      "lng": 106.845701,
+      "lat": -6.208656,
+      "modes": [
+        "lrt"
+      ],
+      "routeIds": [
+        "LRT-JK"
+      ],
+      "accessible": true,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-TNT",
+      "kind": "station",
+      "name": "Tanjung Barat",
+      "nameEn": "Tanjung Barat",
+      "lng": 106.838834,
+      "lat": -6.3087,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-LNA",
+      "kind": "station",
+      "name": "Lenteng Agung",
+      "nameEn": "Lenteng Agung",
+      "lng": 106.834491,
+      "lat": -6.329915,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-UP",
+      "kind": "station",
+      "name": "Universitas Pancasila",
+      "nameEn": "Universitas Pancasila",
+      "lng": 106.834133,
+      "lat": -6.339874,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-UI",
+      "kind": "station",
+      "name": "Universitas Indonesia",
+      "nameEn": "Universitas Indonesia",
+      "lng": 106.831704,
+      "lat": -6.359668,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-POC",
+      "kind": "station",
+      "name": "Pondok Cina",
+      "nameEn": "Pondok Cina",
+      "lng": 106.831863,
+      "lat": -6.36973,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-DPB",
+      "kind": "station",
+      "name": "Depok Baru",
+      "nameEn": "Depok Baru",
+      "lng": 106.821637,
+      "lat": -6.391221,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-DP",
+      "kind": "station",
+      "name": "Depok",
+      "nameEn": "Depok",
+      "lng": 106.81728,
+      "lat": -6.403932,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-CTA",
+      "kind": "station",
+      "name": "Citayam",
+      "nameEn": "Citayam",
+      "lng": 106.802335,
+      "lat": -6.449019,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-BJD",
+      "kind": "station",
+      "name": "Bojonggede",
+      "nameEn": "Bojonggede",
+      "lng": 106.795029,
+      "lat": -6.492988,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-CLT",
+      "kind": "station",
+      "name": "Cilebut",
+      "nameEn": "Cilebut",
+      "lng": 106.800641,
+      "lat": -6.530995,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-BOO",
+      "kind": "station",
+      "name": "Bogor",
+      "nameEn": "Bogor",
+      "lng": 106.790753,
+      "lat": -6.594289,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-CBN",
+      "kind": "station",
+      "name": "Cibinong",
+      "nameEn": "Cibinong",
+      "lng": 106.852691,
+      "lat": -6.464082,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-NMO",
+      "kind": "station",
+      "name": "Nambo",
+      "nameEn": "Nambo",
+      "lng": 106.905519,
+      "lat": -6.466816,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-B"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-CKR",
+      "kind": "station",
+      "name": "Cikarang",
+      "nameEn": "Cikarang",
+      "lng": 107.145756,
+      "lat": -6.255568,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-C"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-MTM",
+      "kind": "station",
+      "name": "Metland Telagamurni",
+      "nameEn": "Metland Telagamurni",
+      "lng": 107.111316,
+      "lat": -6.257457,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-C"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-CIT",
+      "kind": "station",
+      "name": "Cibitung",
+      "nameEn": "Cibitung",
+      "lng": 107.084445,
+      "lat": -6.261711,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-C"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-TB",
+      "kind": "station",
+      "name": "Tambun",
+      "nameEn": "Tambun",
+      "lng": 107.05541,
+      "lat": -6.258463,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-C"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-BKST",
+      "kind": "station",
+      "name": "Bekasi Timur",
+      "nameEn": "Bekasi Timur",
+      "lng": 107.018097,
+      "lat": -6.246787,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-C"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-BKS",
+      "kind": "station",
+      "name": "Bekasi",
+      "nameEn": "Bekasi",
+      "lng": 106.998455,
+      "lat": -6.236095,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-C"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-KRI",
+      "kind": "station",
+      "name": "Kranji",
+      "nameEn": "Kranji",
+      "lng": 106.979818,
+      "lat": -6.224484,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-C"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-CUK",
+      "kind": "station",
+      "name": "Cakung",
+      "nameEn": "Cakung",
+      "lng": 106.953165,
+      "lat": -6.219233,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-C"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-KLDB",
+      "kind": "station",
+      "name": "Klender Baru",
+      "nameEn": "Klender Baru",
+      "lng": 106.940511,
+      "lat": -6.217686,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-C"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-BUA",
+      "kind": "station",
+      "name": "Buaran",
+      "nameEn": "Buaran",
+      "lng": 106.922519,
+      "lat": -6.215527,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-C"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-KLD",
+      "kind": "station",
+      "name": "Klender",
+      "nameEn": "Klender",
+      "lng": 106.899644,
+      "lat": -6.213323,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-C"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-POK",
+      "kind": "station",
+      "name": "Pondok Jati",
+      "nameEn": "Pondok Jati",
+      "lng": 106.862487,
+      "lat": -6.209534,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-C"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-KMT",
+      "kind": "station",
+      "name": "Kramat",
+      "nameEn": "Kramat",
+      "lng": 106.856142,
+      "lat": -6.193156,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-C"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-GST",
+      "kind": "station",
+      "name": "Gang Sentiong",
+      "nameEn": "Gang Sentiong",
+      "lng": 106.850625,
+      "lat": -6.185829,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-C"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-SRP",
+      "kind": "station",
+      "name": "Serpong",
+      "nameEn": "Serpong",
+      "lng": 106.665688,
+      "lat": -6.320163,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-R"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-CSK",
+      "kind": "station",
+      "name": "Cisauk",
+      "nameEn": "Cisauk",
+      "lng": 106.641528,
+      "lat": -6.324493,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-R"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-CC",
+      "kind": "station",
+      "name": "Cicayur",
+      "nameEn": "Cicayur",
+      "lng": 106.619177,
+      "lat": -6.329607,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-R"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-JTK",
+      "kind": "station",
+      "name": "Jatake",
+      "nameEn": "Jatake",
+      "lng": 106.606648,
+      "lat": -6.334978,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-R"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-PRP",
+      "kind": "station",
+      "name": "Parung Panjang",
+      "nameEn": "Parung Panjang",
+      "lng": 106.569494,
+      "lat": -6.344322,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-R"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-CLJ",
+      "kind": "station",
+      "name": "Cilejit",
+      "nameEn": "Cilejit",
+      "lng": 106.509634,
+      "lat": -6.354254,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-R"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-DAR",
+      "kind": "station",
+      "name": "Daru",
+      "nameEn": "Daru",
+      "lng": 106.492547,
+      "lat": -6.337935,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-R"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-TEJ",
+      "kind": "station",
+      "name": "Tenjo",
+      "nameEn": "Tenjo",
+      "lng": 106.461421,
+      "lat": -6.327203,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-R"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-TGS",
+      "kind": "station",
+      "name": "Tigaraksa",
+      "nameEn": "Tigaraksa",
+      "lng": 106.43409,
+      "lat": -6.328833,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-R"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-MJ",
+      "kind": "station",
+      "name": "Maja",
+      "nameEn": "Maja",
+      "lng": 106.395925,
+      "lat": -6.332263,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-R"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-CTR",
+      "kind": "station",
+      "name": "Citeras",
+      "nameEn": "Citeras",
+      "lng": 106.332888,
+      "lat": -6.334992,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-R"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-RK",
+      "kind": "station",
+      "name": "Rangkasbitung",
+      "nameEn": "Rangkasbitung",
+      "lng": 106.251903,
+      "lat": -6.352893,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-R"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-GGL",
+      "kind": "station",
+      "name": "Grogol",
+      "nameEn": "Grogol",
+      "lng": 106.788301,
+      "lat": -6.162063,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-T"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-PSG",
+      "kind": "station",
+      "name": "Pesing",
+      "nameEn": "Pesing",
+      "lng": 106.772691,
+      "lat": -6.161352,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-T"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-TKO",
+      "kind": "station",
+      "name": "Taman Kota",
+      "nameEn": "Taman Kota",
+      "lng": 106.755641,
+      "lat": -6.158423,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-T"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-BOI",
+      "kind": "station",
+      "name": "Bojong Indah",
+      "nameEn": "Bojong Indah",
+      "lng": 106.736111,
+      "lat": -6.160167,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-T"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-KDS",
+      "kind": "station",
+      "name": "Kalideres",
+      "nameEn": "Kalideres",
+      "lng": 106.703423,
+      "lat": -6.166014,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-T"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-PI",
+      "kind": "station",
+      "name": "Poris",
+      "nameEn": "Poris",
+      "lng": 106.681335,
+      "lat": -6.169635,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-T"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-TTI",
+      "kind": "station",
+      "name": "Tanah Tinggi",
+      "nameEn": "Tanah Tinggi",
+      "lng": 106.646793,
+      "lat": -6.175148,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-T"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-TNG",
+      "kind": "station",
+      "name": "Tangerang",
+      "nameEn": "Tangerang",
+      "lng": 106.630717,
+      "lat": -6.176836,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-T"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-AC",
+      "kind": "station",
+      "name": "Ancol",
+      "nameEn": "Ancol",
+      "lng": 106.84462,
+      "lat": -6.128157,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-TP"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-JIS",
+      "kind": "station",
+      "name": "Jakarta International Stadium",
+      "nameEn": "Jakarta International Stadium",
+      "aliases": [
+        "JIS"
+      ],
+      "lng": 106.861051,
+      "lat": -6.122924,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-TP"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    },
+    {
+      "id": "ST-TPK",
+      "kind": "station",
+      "name": "Tanjung Priok",
+      "nameEn": "Tanjung Priok",
+      "lng": 106.88145,
+      "lat": -6.110601,
+      "modes": [
+        "commuter"
+      ],
+      "routeIds": [
+        "KRL-TP"
+      ],
+      "accessible": false,
+      "crowdBaseline": "medium"
+    }
+  ]
+}

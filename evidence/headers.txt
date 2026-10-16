@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Date: Fri, 16 Oct 2026 12:58:42 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+x-frame-options: DENY
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=yQfhh%2FpYBUhNAxarWoF6YsXqjWujNAevD5ZrDPh6TXr2s0bRjL2DU8I8Mgv2SCzEqcTKdBiN%2Fbc1sf4k2GyZT%2FnTac7bstGurAwv0efE9QFKDLGgsKsKV1RaZ%2BWLNIcRhUMv8QXjztZkz0kGom5JAGcn7w%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=0, must-revalidate
+cf-cache-status: DYNAMIC
+content-security-policy: default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: blob: https://tiles.openfreemap.org; connect-src 'self' https://tiles.openfreemap.org; worker-src 'self' blob:; child-src blob:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'
+cross-origin-opener-policy: same-origin
+permissions-policy: camera=(), microphone=(), geolocation=(), payment=(), usb=()
+referrer-policy: strict-origin-when-cross-origin
+x-content-type-options: nosniff
+Server: cloudflare
+CF-RAY: a4b73c8f8f368194-CGK
+alt-svc: h3=":443"; ma=86400
+

@@ -1,0 +1,54 @@
+{
+  "landmarks": [
+    {
+      "id": "LM-MONAS",
+      "name": "Monumen Nasional (Monas)",
+      "nameEn": "National Monument (Monas)",
+      "lng": 106.8272,
+      "lat": -6.1754,
+      "height": 132,
+      "category": "monument",
+      "description": "Ikon utama ibu kota Republik Indonesia."
+    },
+    {
+      "id": "LM-BHI",
+      "name": "Bundaran HI & Patung Selamat Datang",
+      "nameEn": "Hotel Indonesia Roundabout",
+      "lng": 106.8229,
+      "lat": -6.1954,
+      "height": 30,
+      "category": "landmark",
+      "description": "Monumen penyambutan tamu Asian Games 1962 oleh Presiden Sukarno."
+    },
+    {
+      "id": "LM-W46",
+      "name": "Wisma 46 (BNI Pen Tower)",
+      "nameEn": "Wisma 46 (Pen Tower)",
+      "lng": 106.8202,
+      "lat": -6.2052,
+      "height": 262,
+      "category": "skyscraper",
+      "description": "Pencakar langit postmodern berbentuk pena ikonik di cakrawala Sudirman."
+    },
+    {
+      "id": "LM-GBK",
+      "name": "Stadion Utama Gelora Bung Karno",
+      "nameEn": "Gelora Bung Karno Main Stadium",
+      "lng": 106.80255,
+      "lat": -6.21859,
+      "height": 45,
+      "category": "sports",
+      "description": "Stadion olahraga legendaris berkapasitas 78.000 penonton."
+    },
+    {
+      "id": "LM-ISTIQLAL",
+      "name": "Masjid Istiqlal",
+      "nameEn": "Istiqlal Mosque",
+      "lng": 106.8315,
+      "lat": -6.1702,
+      "height": 60,
+      "category": "heritage",
+      "description": "Masjid terbesar di Asia Tenggara berdampingan dengan Katedral Jakarta."
+    }
+  ]
+}

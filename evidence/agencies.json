@@ -1,0 +1,60 @@
+{
+  "agencies": [
+    {
+      "id": "AG-MRT",
+      "name": "PT MRT Jakarta",
+      "nameEn": "Jakarta MRT",
+      "mode": "metro",
+      "url": "https://www.jakartamrt.co.id"
+    },
+    {
+      "id": "AG-LRTJ",
+      "name": "PT LRT Jakarta",
+      "nameEn": "LRT Jakarta",
+      "mode": "lrt",
+      "url": "https://www.lrtjakarta.co.id"
+    },
+    {
+      "id": "AG-LRTJABO",
+      "name": "KAI LRT Jabodebek",
+      "nameEn": "Jabodebek LRT (KAI)",
+      "mode": "lrt",
+      "url": "https://www.kai.id"
+    },
+    {
+      "id": "AG-KRL",
+      "name": "KAI Commuter",
+      "nameEn": "KAI Commuter",
+      "mode": "commuter",
+      "url": "https://commuterline.id"
+    },
+    {
+      "id": "AG-TJ",
+      "name": "PT Transportasi Jakarta",
+      "nameEn": "TransJakarta",
+      "mode": "brt",
+      "url": "https://www.transjakarta.co.id"
+    },
+    {
+      "id": "AG-JL",
+      "name": "Jak Lingko",
+      "nameEn": "Jak Lingko",
+      "mode": "bus",
+      "url": "https://www.jaklingko.id"
+    },
+    {
+      "id": "AG-KCIC",
+      "name": "PT KCIC",
+      "nameEn": "KCIC Whoosh High-Speed Rail",
+      "mode": "hsr",
+      "url": "https://kcic.co.id"
+    },
+    {
+      "id": "AG-DAMRI",
+      "name": "Perum DAMRI",
+      "nameEn": "DAMRI",
+      "mode": "airport",
+      "url": "https://www.damri.co.id"
+    }
+  ]
+}

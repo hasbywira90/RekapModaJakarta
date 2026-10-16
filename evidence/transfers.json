@@ -1,0 +1,1003 @@
+{
+  "transfers": [
+    {
+      "id": "TR-0033",
+      "from": "TJH-08-01",
+      "to": "ST-LB",
+      "via": "walk",
+      "distanceM": 115,
+      "durationS": 92,
+      "accessible": false
+    },
+    {
+      "id": "TR-0038",
+      "from": "TJH-08-06",
+      "to": "ST-BM",
+      "via": "walk",
+      "distanceM": 545,
+      "durationS": 436,
+      "accessible": false
+    },
+    {
+      "id": "TR-0043",
+      "from": "ST-CW",
+      "to": "TJH-07-04",
+      "via": "walk",
+      "distanceM": 20,
+      "durationS": 16,
+      "accessible": false
+    },
+    {
+      "id": "TR-0046",
+      "from": "ST-DA",
+      "to": "TJH-04-12",
+      "via": "walk",
+      "distanceM": 715,
+      "durationS": 572,
+      "accessible": false
+    },
+    {
+      "id": "TR-0051",
+      "from": "ST-JUA",
+      "to": "TJH-03-14",
+      "via": "walk",
+      "distanceM": 260,
+      "durationS": 208,
+      "accessible": false
+    },
+    {
+      "id": "TR-0053",
+      "from": "ST-KN",
+      "to": "TJH-06-06",
+      "via": "walk",
+      "distanceM": 20,
+      "durationS": 16,
+      "accessible": false
+    },
+    {
+      "id": "TR-0054",
+      "from": "ST-KR",
+      "to": "TJH-07-10",
+      "via": "walk",
+      "distanceM": 325,
+      "durationS": 260,
+      "accessible": false
+    },
+    {
+      "id": "TR-0063",
+      "from": "ST-PLM",
+      "to": "TJH-02-03",
+      "via": "walk",
+      "distanceM": 375,
+      "durationS": 300,
+      "accessible": false
+    },
+    {
+      "id": "TR-0065",
+      "from": "ST-PSE",
+      "to": "TJH-02-10",
+      "via": "walk",
+      "distanceM": 820,
+      "durationS": 656,
+      "accessible": false
+    },
+    {
+      "id": "TR-0072",
+      "from": "ST-VLD",
+      "to": "TJH-02-06",
+      "via": "walk",
+      "distanceM": 460,
+      "durationS": 368,
+      "accessible": false
+    },
+    {
+      "id": "TR-0081",
+      "from": "ST-AS",
+      "to": "ST-MA",
+      "via": "walk",
+      "distanceM": 330,
+      "durationS": 264,
+      "accessible": false
+    },
+    {
+      "id": "TR-0082",
+      "from": "ST-CK",
+      "to": "ST-CW-KRL",
+      "via": "walk",
+      "distanceM": 335,
+      "durationS": 268,
+      "accessible": false
+    },
+    {
+      "id": "TR-0083",
+      "from": "ST-DA",
+      "to": "ST-SUD",
+      "via": "walk",
+      "distanceM": 345,
+      "durationS": 276,
+      "accessible": false
+    },
+    {
+      "id": "TR-0084",
+      "from": "ST-SUD",
+      "to": "TJH-04-12",
+      "via": "walk",
+      "distanceM": 540,
+      "durationS": 432,
+      "accessible": false
+    },
+    {
+      "id": "TR-0085",
+      "from": "ST-KRT",
+      "to": "ST-SB",
+      "via": "walk",
+      "distanceM": 545,
+      "durationS": 436,
+      "accessible": false
+    },
+    {
+      "id": "TR-0090",
+      "from": "ST-BNC",
+      "to": "ST-DA",
+      "via": "walk",
+      "distanceM": 455,
+      "durationS": 364,
+      "accessible": false
+    },
+    {
+      "id": "TR-0091",
+      "from": "ST-BNC",
+      "to": "TJH-04-12",
+      "via": "walk",
+      "distanceM": 695,
+      "durationS": 556,
+      "accessible": false
+    },
+    {
+      "id": "TR-0096",
+      "from": "ST-BNC",
+      "to": "ST-SUD",
+      "via": "walk",
+      "distanceM": 680,
+      "durationS": 544,
+      "accessible": false
+    },
+    {
+      "id": "TR-0106",
+      "from": "ST-PSE",
+      "to": "TJH-14-09",
+      "via": "walk",
+      "distanceM": 750,
+      "durationS": 600,
+      "accessible": false
+    },
+    {
+      "id": "TR-0108",
+      "from": "TJH-02-10",
+      "to": "TJH-14-09",
+      "via": "walk",
+      "distanceM": 435,
+      "durationS": 348,
+      "accessible": false
+    },
+    {
+      "id": "TR-0109",
+      "from": "ST-IS",
+      "to": "ST-PMJ",
+      "via": "walk",
+      "distanceM": 305,
+      "durationS": 244,
+      "accessible": false
+    },
+    {
+      "id": "TR-0113",
+      "from": "ST-BHI",
+      "to": "TJH-H00022P",
+      "via": "walk",
+      "distanceM": 170,
+      "durationS": 136,
+      "accessible": true
+    },
+    {
+      "id": "TR-0114",
+      "from": "ST-DA",
+      "to": "ST-DA-LRT",
+      "via": "walk",
+      "distanceM": 705,
+      "durationS": 564,
+      "accessible": true
+    },
+    {
+      "id": "TR-0115",
+      "from": "ST-SN",
+      "to": "ST-BSN",
+      "via": "walk",
+      "distanceM": 275,
+      "durationS": 220,
+      "accessible": false
+    },
+    {
+      "id": "TR-0116",
+      "from": "ST-AS",
+      "to": "TJH-H00265P",
+      "via": "walk",
+      "distanceM": 180,
+      "durationS": 144,
+      "accessible": false
+    },
+    {
+      "id": "TR-0117",
+      "from": "ST-AS",
+      "to": "TJH-H00041P",
+      "via": "walk",
+      "distanceM": 170,
+      "durationS": 136,
+      "accessible": false
+    },
+    {
+      "id": "TR-0118",
+      "from": "ST-MRI",
+      "to": "ST-MRI-LRT",
+      "via": "walk",
+      "distanceM": 620,
+      "durationS": 496,
+      "accessible": true
+    },
+    {
+      "id": "TR-0119",
+      "from": "ST-MRI",
+      "to": "TJS-B08302P",
+      "via": "walk",
+      "distanceM": 330,
+      "durationS": 264,
+      "accessible": false
+    },
+    {
+      "id": "TR-0120",
+      "from": "ST-THB",
+      "to": "TJH-H00079P",
+      "via": "walk",
+      "distanceM": 155,
+      "durationS": 124,
+      "accessible": false
+    },
+    {
+      "id": "TR-0121",
+      "from": "ST-JAKK",
+      "to": "TJH-H00275P",
+      "via": "walk",
+      "distanceM": 190,
+      "durationS": 152,
+      "accessible": false
+    },
+    {
+      "id": "TR-0122",
+      "from": "ST-JAKK",
+      "to": "TJS-B05448P",
+      "via": "walk",
+      "distanceM": 65,
+      "durationS": 52,
+      "accessible": false
+    },
+    {
+      "id": "TR-0123",
+      "from": "ST-HLM",
+      "to": "ST-HLM-LRT",
+      "via": "walk",
+      "distanceM": 405,
+      "durationS": 324,
+      "accessible": true
+    },
+    {
+      "id": "TR-0124",
+      "from": "ST-SB-LRT",
+      "to": "TJH-H00215P",
+      "via": "walk",
+      "distanceM": 20,
+      "durationS": 16,
+      "accessible": false
+    },
+    {
+      "id": "TR-0125",
+      "from": "ST-RS",
+      "to": "TJH-H00069P",
+      "via": "walk",
+      "distanceM": 20,
+      "durationS": 16,
+      "accessible": false
+    },
+    {
+      "id": "TR-0126",
+      "from": "ST-PC",
+      "to": "TJH-H00198S",
+      "via": "walk",
+      "distanceM": 105,
+      "durationS": 84,
+      "accessible": false
+    },
+    {
+      "id": "TR-0127",
+      "from": "ST-CK",
+      "to": "TJH-H00064S",
+      "via": "walk",
+      "distanceM": 155,
+      "durationS": 124,
+      "accessible": false
+    },
+    {
+      "id": "TR-0128",
+      "from": "ST-CL",
+      "to": "TJH-H00062S",
+      "via": "walk",
+      "distanceM": 60,
+      "durationS": 48,
+      "accessible": false
+    },
+    {
+      "id": "TR-0129",
+      "from": "ST-PLM",
+      "to": "TJS-B05474P",
+      "via": "walk",
+      "distanceM": 45,
+      "durationS": 36,
+      "accessible": false
+    },
+    {
+      "id": "TR-0130",
+      "from": "ST-EQS",
+      "to": "TJS-B05471P",
+      "via": "walk",
+      "distanceM": 155,
+      "durationS": 124,
+      "accessible": false
+    },
+    {
+      "id": "TR-0131",
+      "from": "ST-VLD",
+      "to": "TJH-H00161P",
+      "via": "walk",
+      "distanceM": 210,
+      "durationS": 168,
+      "accessible": true
+    },
+    {
+      "id": "TR-0132",
+      "from": "ST-VLD",
+      "to": "TJS-B00065P",
+      "via": "walk",
+      "distanceM": 230,
+      "durationS": 184,
+      "accessible": false
+    },
+    {
+      "id": "TR-0133",
+      "from": "ST-CW-KRL",
+      "to": "TJH-H00063S",
+      "via": "walk",
+      "distanceM": 200,
+      "durationS": 160,
+      "accessible": false
+    },
+    {
+      "id": "TR-0134",
+      "from": "ST-JNG",
+      "to": "TJS-B00920P",
+      "via": "walk",
+      "distanceM": 80,
+      "durationS": 64,
+      "accessible": false
+    },
+    {
+      "id": "TR-0135",
+      "from": "ST-MTR",
+      "to": "TJH-H00104P",
+      "via": "walk",
+      "distanceM": 190,
+      "durationS": 152,
+      "accessible": false
+    },
+    {
+      "id": "TR-0136",
+      "from": "ST-SUD",
+      "to": "ST-DA-LRT",
+      "via": "walk",
+      "distanceM": 360,
+      "durationS": 288,
+      "accessible": false
+    },
+    {
+      "id": "TR-0137",
+      "from": "ST-SUD",
+      "to": "TJH-H00283P",
+      "via": "walk",
+      "distanceM": 290,
+      "durationS": 232,
+      "accessible": false
+    },
+    {
+      "id": "TR-0138",
+      "from": "ST-PSE",
+      "to": "TJS-B01945P",
+      "via": "walk",
+      "distanceM": 175,
+      "durationS": 140,
+      "accessible": false
+    },
+    {
+      "id": "TR-0139",
+      "from": "ST-KBY",
+      "to": "TJH-H00149P",
+      "via": "walk",
+      "distanceM": 235,
+      "durationS": 188,
+      "accessible": false
+    },
+    {
+      "id": "TR-0140",
+      "from": "ST-DA-LRT",
+      "to": "TJH-H00283P",
+      "via": "walk",
+      "distanceM": 315,
+      "durationS": 252,
+      "accessible": false
+    },
+    {
+      "id": "TR-0141",
+      "from": "ST-RWM",
+      "to": "TJH-H00230P",
+      "via": "walk",
+      "distanceM": 175,
+      "durationS": 140,
+      "accessible": true
+    },
+    {
+      "id": "TR-0142",
+      "from": "ST-PRM",
+      "to": "TJH-04-05",
+      "via": "walk",
+      "distanceM": 335,
+      "durationS": 268,
+      "accessible": false
+    },
+    {
+      "id": "TR-0143",
+      "from": "ST-MTR-LRT",
+      "to": "ST-KMT",
+      "via": "walk",
+      "distanceM": 620,
+      "durationS": 496,
+      "accessible": false
+    },
+    {
+      "id": "TR-0144",
+      "from": "ST-MTR-LRT",
+      "to": "TJH-H00146P",
+      "via": "walk",
+      "distanceM": 160,
+      "durationS": 128,
+      "accessible": false
+    },
+    {
+      "id": "TR-0145",
+      "from": "ST-MRI-LRT",
+      "to": "TJS-B08301P",
+      "via": "walk",
+      "distanceM": 220,
+      "durationS": 176,
+      "accessible": false
+    },
+    {
+      "id": "TR-0146",
+      "from": "ST-BUA",
+      "to": "TJH-H00055P",
+      "via": "walk",
+      "distanceM": 275,
+      "durationS": 220,
+      "accessible": false
+    },
+    {
+      "id": "TR-0147",
+      "from": "ST-KLD",
+      "to": "TJH-H00226P",
+      "via": "walk",
+      "distanceM": 145,
+      "durationS": 116,
+      "accessible": false
+    },
+    {
+      "id": "TR-0148",
+      "from": "ST-GST",
+      "to": "TJS-B04507P",
+      "via": "walk",
+      "distanceM": 30,
+      "durationS": 24,
+      "accessible": false
+    },
+    {
+      "id": "TR-0149",
+      "from": "ST-GGL",
+      "to": "TJH-H00138S",
+      "via": "walk",
+      "distanceM": 370,
+      "durationS": 296,
+      "accessible": false
+    },
+    {
+      "id": "TR-0150",
+      "from": "ST-TKO",
+      "to": "TJH-H00235P",
+      "via": "walk",
+      "distanceM": 370,
+      "durationS": 296,
+      "accessible": false
+    },
+    {
+      "id": "TR-0151",
+      "from": "ST-TPK",
+      "to": "TJH-10-01",
+      "via": "walk",
+      "distanceM": 175,
+      "durationS": 140,
+      "accessible": false
+    },
+    {
+      "id": "TR-0152",
+      "from": "TJH-02-02",
+      "to": "TJS-B00130P",
+      "via": "walk",
+      "distanceM": 30,
+      "durationS": 24,
+      "accessible": false
+    },
+    {
+      "id": "TR-0153",
+      "from": "TJH-02-06",
+      "to": "TJS-B05851P",
+      "via": "walk",
+      "distanceM": 45,
+      "durationS": 36,
+      "accessible": false
+    },
+    {
+      "id": "TR-0154",
+      "from": "TJH-02-09",
+      "to": "TJS-B00387P",
+      "via": "walk",
+      "distanceM": 30,
+      "durationS": 24,
+      "accessible": false
+    },
+    {
+      "id": "TR-0155",
+      "from": "TJH-02-10",
+      "to": "TJH-H00213P",
+      "via": "walk",
+      "distanceM": 80,
+      "durationS": 64,
+      "accessible": false
+    },
+    {
+      "id": "TR-0156",
+      "from": "TJH-03-08",
+      "to": "TJS-B05704P",
+      "via": "walk",
+      "distanceM": 85,
+      "durationS": 68,
+      "accessible": false
+    },
+    {
+      "id": "TR-0157",
+      "from": "TJH-04-04",
+      "to": "ST-RWM",
+      "via": "walk",
+      "distanceM": 310,
+      "durationS": 248,
+      "accessible": false
+    },
+    {
+      "id": "TR-0158",
+      "from": "TJH-05-01",
+      "to": "TJS-B05707P",
+      "via": "walk",
+      "distanceM": 25,
+      "durationS": 20,
+      "accessible": false
+    },
+    {
+      "id": "TR-0159",
+      "from": "TJH-05-03",
+      "to": "TJH-H00129P",
+      "via": "walk",
+      "distanceM": 155,
+      "durationS": 124,
+      "accessible": false
+    },
+    {
+      "id": "TR-0160",
+      "from": "TJH-05-07",
+      "to": "TJS-B00722P",
+      "via": "walk",
+      "distanceM": 40,
+      "durationS": 32,
+      "accessible": false
+    },
+    {
+      "id": "TR-0161",
+      "from": "TJH-05-08",
+      "to": "TJS-B01754P",
+      "via": "walk",
+      "distanceM": 35,
+      "durationS": 28,
+      "accessible": false
+    },
+    {
+      "id": "TR-0162",
+      "from": "TJH-05-09",
+      "to": "TJS-B02690P",
+      "via": "walk",
+      "distanceM": 60,
+      "durationS": 48,
+      "accessible": false
+    },
+    {
+      "id": "TR-0163",
+      "from": "TJH-07-07",
+      "to": "TJH-10-11",
+      "via": "walk",
+      "distanceM": 125,
+      "durationS": 100,
+      "accessible": false
+    },
+    {
+      "id": "TR-0164",
+      "from": "TJH-10-11",
+      "to": "TJS-B02828P",
+      "via": "walk",
+      "distanceM": 20,
+      "durationS": 16,
+      "accessible": false
+    },
+    {
+      "id": "TR-0165",
+      "from": "TJH-13-10",
+      "to": "TJH-H00243S",
+      "via": "walk",
+      "distanceM": 175,
+      "durationS": 140,
+      "accessible": false
+    },
+    {
+      "id": "TR-0166",
+      "from": "TJH-14-09",
+      "to": "TJS-B03199P",
+      "via": "walk",
+      "distanceM": 55,
+      "durationS": 44,
+      "accessible": false
+    },
+    {
+      "id": "TR-0167",
+      "from": "TJH-H00265P",
+      "to": "TJH-H00041P",
+      "via": "walk",
+      "distanceM": 80,
+      "durationS": 64,
+      "accessible": false
+    },
+    {
+      "id": "TR-0168",
+      "from": "TJH-H00266P",
+      "to": "ST-AS",
+      "via": "walk",
+      "distanceM": 250,
+      "durationS": 200,
+      "accessible": false
+    },
+    {
+      "id": "TR-0169",
+      "from": "TJH-H00266P",
+      "to": "TJH-H00041P",
+      "via": "walk",
+      "distanceM": 80,
+      "durationS": 64,
+      "accessible": false
+    },
+    {
+      "id": "TR-0170",
+      "from": "TJH-H00144P",
+      "to": "TJS-B02594P",
+      "via": "walk",
+      "distanceM": 30,
+      "durationS": 24,
+      "accessible": false
+    },
+    {
+      "id": "TR-0171",
+      "from": "TJH-H00194P",
+      "to": "TJS-B03083P",
+      "via": "walk",
+      "distanceM": 40,
+      "durationS": 32,
+      "accessible": false
+    },
+    {
+      "id": "TR-0172",
+      "from": "TJH-H00155P",
+      "to": "ST-JUA",
+      "via": "walk",
+      "distanceM": 360,
+      "durationS": 288,
+      "accessible": false
+    },
+    {
+      "id": "TR-0173",
+      "from": "TJH-H00200P",
+      "to": "TJS-B03180P",
+      "via": "walk",
+      "distanceM": 115,
+      "durationS": 92,
+      "accessible": false
+    },
+    {
+      "id": "TR-0174",
+      "from": "TJH-H00152P",
+      "to": "TJS-B02671P",
+      "via": "walk",
+      "distanceM": 20,
+      "durationS": 16,
+      "accessible": false
+    },
+    {
+      "id": "TR-0175",
+      "from": "TJH-H00252P",
+      "to": "TJS-B05805P",
+      "via": "walk",
+      "distanceM": 20,
+      "durationS": 16,
+      "accessible": false
+    },
+    {
+      "id": "TR-0176",
+      "from": "TJH-H00121P",
+      "to": "TJS-B02127P",
+      "via": "walk",
+      "distanceM": 20,
+      "durationS": 16,
+      "accessible": false
+    },
+    {
+      "id": "TR-0177",
+      "from": "TJH-H00082P",
+      "to": "TJS-B01731P",
+      "via": "walk",
+      "distanceM": 85,
+      "durationS": 68,
+      "accessible": false
+    },
+    {
+      "id": "TR-0178",
+      "from": "TJH-H00030P",
+      "to": "TJS-B06942P",
+      "via": "walk",
+      "distanceM": 55,
+      "durationS": 44,
+      "accessible": false
+    },
+    {
+      "id": "TR-0179",
+      "from": "TJH-H00013P",
+      "to": "TJS-B00154P",
+      "via": "walk",
+      "distanceM": 75,
+      "durationS": 60,
+      "accessible": false
+    },
+    {
+      "id": "TR-0180",
+      "from": "TJH-H00180P",
+      "to": "TJS-B02964P",
+      "via": "walk",
+      "distanceM": 40,
+      "durationS": 32,
+      "accessible": false
+    },
+    {
+      "id": "TR-0181",
+      "from": "TJH-H00107P",
+      "to": "TJS-B01899P",
+      "via": "walk",
+      "distanceM": 80,
+      "durationS": 64,
+      "accessible": false
+    },
+    {
+      "id": "TR-0182",
+      "from": "TJH-H00211S",
+      "to": "TJS-B07533P",
+      "via": "walk",
+      "distanceM": 20,
+      "durationS": 16,
+      "accessible": false
+    },
+    {
+      "id": "TR-0183",
+      "from": "TJH-H00210S",
+      "to": "TJS-B05570P",
+      "via": "walk",
+      "distanceM": 125,
+      "durationS": 100,
+      "accessible": false
+    },
+    {
+      "id": "TR-0184",
+      "from": "TJH-H00064S",
+      "to": "ST-CW-KRL",
+      "via": "walk",
+      "distanceM": 245,
+      "durationS": 196,
+      "accessible": false
+    },
+    {
+      "id": "TR-0185",
+      "from": "TJH-H00203S",
+      "to": "ST-PC",
+      "via": "walk",
+      "distanceM": 200,
+      "durationS": 160,
+      "accessible": false
+    },
+    {
+      "id": "TR-0186",
+      "from": "TJH-H00220S",
+      "to": "TJS-B04414P",
+      "via": "walk",
+      "distanceM": 55,
+      "durationS": 44,
+      "accessible": false
+    },
+    {
+      "id": "TR-0187",
+      "from": "TJH-H00224S",
+      "to": "TJS-B04414P",
+      "via": "walk",
+      "distanceM": 95,
+      "durationS": 76,
+      "accessible": false
+    },
+    {
+      "id": "TR-0188",
+      "from": "TJH-H00063S",
+      "to": "ST-CK",
+      "via": "walk",
+      "distanceM": 165,
+      "durationS": 132,
+      "accessible": false
+    },
+    {
+      "id": "TR-0189",
+      "from": "TJH-H00061S",
+      "to": "ST-CL",
+      "via": "walk",
+      "distanceM": 90,
+      "durationS": 72,
+      "accessible": false
+    },
+    {
+      "id": "TR-0190",
+      "from": "TJH-H00188P",
+      "to": "TJS-B03004P",
+      "via": "walk",
+      "distanceM": 45,
+      "durationS": 36,
+      "accessible": false
+    },
+    {
+      "id": "TR-0191",
+      "from": "TJH-H00100P",
+      "to": "TJS-B05108P",
+      "via": "walk",
+      "distanceM": 105,
+      "durationS": 84,
+      "accessible": false
+    },
+    {
+      "id": "TR-0192",
+      "from": "TJH-H00160P",
+      "to": "TJS-B08048P",
+      "via": "walk",
+      "distanceM": 80,
+      "durationS": 64,
+      "accessible": false
+    },
+    {
+      "id": "TR-0193",
+      "from": "TJH-H00037C",
+      "to": "TJS-B00355P",
+      "via": "walk",
+      "distanceM": 45,
+      "durationS": 36,
+      "accessible": false
+    },
+    {
+      "id": "TR-0194",
+      "from": "TJH-H00156P",
+      "to": "TJS-B04719P",
+      "via": "walk",
+      "distanceM": 115,
+      "durationS": 92,
+      "accessible": false
+    },
+    {
+      "id": "TR-0195",
+      "from": "TJH-H00145P",
+      "to": "TJS-B02604P",
+      "via": "walk",
+      "distanceM": 50,
+      "durationS": 40,
+      "accessible": false
+    },
+    {
+      "id": "TR-0196",
+      "from": "TJH-H00076P",
+      "to": "TJS-B00791P",
+      "via": "walk",
+      "distanceM": 70,
+      "durationS": 56,
+      "accessible": false
+    },
+    {
+      "id": "TR-0197",
+      "from": "TJH-H00038P",
+      "to": "TJS-B07791P",
+      "via": "walk",
+      "distanceM": 25,
+      "durationS": 20,
+      "accessible": false
+    },
+    {
+      "id": "TR-0198",
+      "from": "TJH-H00065P",
+      "to": "TJS-B00592P",
+      "via": "walk",
+      "distanceM": 20,
+      "durationS": 16,
+      "accessible": false
+    },
+    {
+      "id": "TR-0199",
+      "from": "TJH-H00140P",
+      "to": "ST-JAKK",
+      "via": "walk",
+      "distanceM": 265,
+      "durationS": 212,
+      "accessible": false
+    },
+    {
+      "id": "TR-0200",
+      "from": "TJH-H00140P",
+      "to": "TJS-B02564P",
+      "via": "walk",
+      "distanceM": 45,
+      "durationS": 36,
+      "accessible": false
+    },
+    {
+      "id": "TR-0201",
+      "from": "TJH-H00285P",
+      "to": "TJS-B01681P",
+      "via": "walk",
+      "distanceM": 40,
+      "durationS": 32,
+      "accessible": false
+    },
+    {
+      "id": "TR-0202",
+      "from": "TJS-B05725P",
+      "to": "ST-PSE",
+      "via": "walk",
+      "distanceM": 305,
+      "durationS": 244,
+      "accessible": false
+    }
+  ]
+}

@@ -1,0 +1,978 @@
+{
+  "routes": [
+    {
+      "id": "MRT-NS",
+      "code": "M1",
+      "name": "MRT Lin Utara–Selatan",
+      "nameEn": "MRT North–South Line",
+      "agencyId": "AG-MRT",
+      "mode": "metro",
+      "color": "#0067a5",
+      "textColor": "#ffffff",
+      "speedKmh": 45,
+      "patterns": [
+        {
+          "id": "MRT-NS-0",
+          "direction": 0,
+          "headsign": "Bundaran HI",
+          "headsignEn": "Bundaran HI",
+          "stopIds": [
+            "ST-LB",
+            "ST-FW",
+            "ST-CP",
+            "ST-HN",
+            "ST-BA",
+            "ST-BM",
+            "ST-AS",
+            "ST-SN",
+            "ST-IS",
+            "ST-BH",
+            "ST-SB",
+            "ST-DA",
+            "ST-BHI"
+          ],
+          "shapeId": "MRT-NS-F",
+          "stopShapeProgress": [0, 0.137186, 0.261665, 0.350741, 0.434433, 0.521124, 0.564146, 0.667608, 0.724381, 0.814273, 0.868283, 0.931856, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1439,
+            "headwayPeakMin": 5,
+            "headwayOffMin": 10
+          }
+        },
+        {
+          "id": "MRT-NS-1",
+          "direction": 1,
+          "headsign": "Lebak Bulus",
+          "headsignEn": "Lebak Bulus",
+          "stopIds": [
+            "ST-BHI",
+            "ST-DA",
+            "ST-SB",
+            "ST-BH",
+            "ST-IS",
+            "ST-SN",
+            "ST-AS",
+            "ST-BM",
+            "ST-BA",
+            "ST-HN",
+            "ST-CP",
+            "ST-FW",
+            "ST-LB"
+          ],
+          "shapeId": "MRT-NS-R",
+          "stopShapeProgress": [0, 0.068092, 0.13151, 0.185111, 0.274998, 0.331885, 0.435767, 0.479037, 0.565636, 0.649436, 0.73854, 0.862658, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1439,
+            "headwayPeakMin": 5,
+            "headwayOffMin": 10
+          }
+        }
+      ]
+    },
+    {
+      "id": "LRT-CB",
+      "code": "CB",
+      "name": "LRT Lin Cibubur",
+      "nameEn": "LRT Cibubur Line",
+      "agencyId": "AG-LRTJABO",
+      "mode": "lrt",
+      "color": "#20409a",
+      "textColor": "#ffffff",
+      "speedKmh": 50,
+      "patterns": [
+        {
+          "id": "LRT-CB-0",
+          "direction": 0,
+          "headsign": "Harjamukti",
+          "headsignEn": "Harjamukti (Cibubur)",
+          "stopIds": [
+            "ST-DA-LRT",
+            "ST-SB-LRT",
+            "ST-RS",
+            "ST-KN",
+            "ST-PC",
+            "ST-CK",
+            "ST-CL",
+            "ST-CW",
+            "ST-TMII",
+            "ST-KR",
+            "ST-CR",
+            "ST-HM"
+          ],
+          "shapeId": "LRT-CB-F",
+          "stopShapeProgress": [0, 0.03278, 0.089851, 0.122722, 0.228291, 0.313344, 0.344555, 0.379315, 0.62158, 0.701788, 0.767793, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1439,
+            "headwayPeakMin": 6,
+            "headwayOffMin": 12
+          }
+        },
+        {
+          "id": "LRT-CB-1",
+          "direction": 1,
+          "headsign": "Dukuh Atas",
+          "headsignEn": "Dukuh Atas",
+          "stopIds": [
+            "ST-HM",
+            "ST-CR",
+            "ST-KR",
+            "ST-TMII",
+            "ST-CW",
+            "ST-CL",
+            "ST-CK",
+            "ST-PC",
+            "ST-KN",
+            "ST-RS",
+            "ST-SB-LRT",
+            "ST-DA-LRT"
+          ],
+          "shapeId": "LRT-CB-R",
+          "stopShapeProgress": [0, 0.232119, 0.298123, 0.378357, 0.620764, 0.655555, 0.686778, 0.771772, 0.877031, 0.909933, 0.967002, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1439,
+            "headwayPeakMin": 6,
+            "headwayOffMin": 12
+          }
+        }
+      ]
+    },
+    {
+      "id": "LRT-BK",
+      "code": "BK",
+      "name": "LRT Lin Bekasi",
+      "nameEn": "LRT Bekasi Line",
+      "agencyId": "AG-LRTJABO",
+      "mode": "lrt",
+      "color": "#009a44",
+      "textColor": "#ffffff",
+      "speedKmh": 50,
+      "patterns": [
+        {
+          "id": "LRT-BK-0",
+          "direction": 0,
+          "headsign": "Jatimulya",
+          "headsignEn": "Jatimulya",
+          "stopIds": [
+            "ST-DA-LRT",
+            "ST-SB-LRT",
+            "ST-RS",
+            "ST-KN",
+            "ST-PC",
+            "ST-CK",
+            "ST-CL",
+            "ST-CW",
+            "ST-HLM-LRT",
+            "ST-JB",
+            "ST-CK1",
+            "ST-CK2",
+            "ST-BB",
+            "ST-JM"
+          ],
+          "shapeId": "LRT-BK-F",
+          "stopShapeProgress": [0, 0.029387, 0.080551, 0.11002, 0.204648, 0.280897, 0.308874, 0.340042, 0.411892, 0.601188, 0.698488, 0.745232, 0.865454, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1439,
+            "headwayPeakMin": 6,
+            "headwayOffMin": 12
+          }
+        },
+        {
+          "id": "LRT-BK-1",
+          "direction": 1,
+          "headsign": "Dukuh Atas",
+          "headsignEn": "Dukuh Atas",
+          "stopIds": [
+            "ST-JM",
+            "ST-BB",
+            "ST-CK2",
+            "ST-CK1",
+            "ST-JB",
+            "ST-HLM-LRT",
+            "ST-CW",
+            "ST-CL",
+            "ST-CK",
+            "ST-PC",
+            "ST-KN",
+            "ST-RS",
+            "ST-SB-LRT",
+            "ST-DA-LRT"
+          ],
+          "shapeId": "LRT-BK-R",
+          "stopShapeProgress": [0, 0.134533, 0.254889, 0.301581, 0.398892, 0.588234, 0.659904, 0.691103, 0.719104, 0.795327, 0.889718, 0.91922, 0.970398, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1439,
+            "headwayPeakMin": 6,
+            "headwayOffMin": 12
+          }
+        }
+      ]
+    },
+    {
+      "id": "LRT-JK",
+      "code": "S",
+      "name": "LRT Jakarta Lin Velodrome",
+      "nameEn": "LRT Jakarta Velodrome Line",
+      "agencyId": "AG-LRTJ",
+      "mode": "lrt",
+      "color": "#e83a82",
+      "textColor": "#ffffff",
+      "speedKmh": 40,
+      "patterns": [
+        {
+          "id": "LRT-JK-0",
+          "direction": 0,
+          "headsign": "Manggarai",
+          "headsignEn": "Manggarai",
+          "stopIds": [
+            "ST-PGD",
+            "ST-BLU",
+            "ST-BLS",
+            "ST-PLM",
+            "ST-EQS",
+            "ST-VLD",
+            "ST-RWM",
+            "ST-PRM",
+            "ST-MTR-LRT",
+            "ST-PRK",
+            "ST-MRI-LRT"
+          ],
+          "shapeId": "LRT-JK-F",
+          "stopShapeProgress": [0, 0.126704, 0.236778, 0.336218, 0.400618, 0.482598, 0.57549, 0.686162, 0.795993, 0.910834, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1439,
+            "headwayPeakMin": 10,
+            "headwayOffMin": 15
+          }
+        },
+        {
+          "id": "LRT-JK-1",
+          "direction": 1,
+          "headsign": "Kelapa Gading",
+          "headsignEn": "Kelapa Gading",
+          "stopIds": [
+            "ST-MRI-LRT",
+            "ST-PRK",
+            "ST-MTR-LRT",
+            "ST-PRM",
+            "ST-RWM",
+            "ST-VLD",
+            "ST-EQS",
+            "ST-PLM",
+            "ST-BLS",
+            "ST-BLU",
+            "ST-PGD"
+          ],
+          "shapeId": "LRT-JK-R",
+          "stopShapeProgress": [0, 0.087885, 0.203191, 0.313192, 0.424212, 0.518108, 0.600344, 0.664791, 0.764601, 0.875085, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1439,
+            "headwayPeakMin": 10,
+            "headwayOffMin": 15
+          }
+        }
+      ]
+    },
+    {
+      "id": "KRL-B",
+      "code": "B",
+      "name": "Commuter Line Bogor",
+      "nameEn": "Bogor Commuter Line",
+      "agencyId": "AG-KRL",
+      "mode": "commuter",
+      "color": "#e1251b",
+      "textColor": "#ffffff",
+      "speedKmh": 55,
+      "patterns": [
+        {
+          "id": "KRL-B-0",
+          "direction": 0,
+          "headsign": "Bogor",
+          "headsignEn": "Bogor",
+          "stopIds": [
+            "ST-JAKK",
+            "ST-JAY",
+            "ST-MGB",
+            "ST-SWB",
+            "ST-JUA",
+            "ST-GDD",
+            "ST-CKI",
+            "ST-MRI",
+            "ST-TEB",
+            "ST-CW-KRL",
+            "ST-DRN",
+            "ST-PSMB",
+            "ST-PSM",
+            "ST-TNT",
+            "ST-LNA",
+            "ST-UP",
+            "ST-UI",
+            "ST-POC",
+            "ST-DPB",
+            "ST-DP",
+            "ST-CTA",
+            "ST-BJD",
+            "ST-CLT",
+            "ST-BOO"
+          ],
+          "shapeId": "KRL-B-F",
+          "stopShapeProgress": [0, 0.02109, 0.040438, 0.061999, 0.074958, 0.115161, 0.146261, 0.175853, 0.214752, 0.245214, 0.272149, 0.291918, 0.333419, 0.387987, 0.433213, 0.454022, 0.494539, 0.515176, 0.563867, 0.59117, 0.687752, 0.78199, 0.862281, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1439,
+            "headwayPeakMin": 4,
+            "headwayOffMin": 8
+          }
+        },
+        {
+          "id": "KRL-B-1",
+          "direction": 1,
+          "headsign": "Jakarta Kota",
+          "headsignEn": "Jakarta Kota",
+          "stopIds": [
+            "ST-BOO",
+            "ST-CLT",
+            "ST-BJD",
+            "ST-CTA",
+            "ST-DP",
+            "ST-DPB",
+            "ST-POC",
+            "ST-UI",
+            "ST-UP",
+            "ST-LNA",
+            "ST-TNT",
+            "ST-PSM",
+            "ST-PSMB",
+            "ST-DRN",
+            "ST-CW-KRL",
+            "ST-TEB",
+            "ST-MRI",
+            "ST-CKI",
+            "ST-GDD",
+            "ST-JUA",
+            "ST-SWB",
+            "ST-MGB",
+            "ST-JAY",
+            "ST-JAKK"
+          ],
+          "shapeId": "KRL-B-R",
+          "stopShapeProgress": [0, 0.1377, 0.217978, 0.312174, 0.408736, 0.436007, 0.484704, 0.505379, 0.545865, 0.56672, 0.6119, 0.666458, 0.707936, 0.727703, 0.754665, 0.785124, 0.824067, 0.853656, 0.884711, 0.924915, 0.937897, 0.959434, 0.978809, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1439,
+            "headwayPeakMin": 4,
+            "headwayOffMin": 8
+          }
+        },
+        {
+          "id": "KRL-B-2",
+          "direction": 0,
+          "headsign": "Nambo",
+          "headsignEn": "Nambo",
+          "stopIds": [
+            "ST-JAKK",
+            "ST-JAY",
+            "ST-MGB",
+            "ST-SWB",
+            "ST-JUA",
+            "ST-GDD",
+            "ST-CKI",
+            "ST-MRI",
+            "ST-TEB",
+            "ST-CW-KRL",
+            "ST-DRN",
+            "ST-PSMB",
+            "ST-PSM",
+            "ST-TNT",
+            "ST-LNA",
+            "ST-UP",
+            "ST-UI",
+            "ST-POC",
+            "ST-DPB",
+            "ST-DP",
+            "ST-CTA",
+            "ST-CBN",
+            "ST-NMO"
+          ],
+          "shapeId": "KRL-B-NF",
+          "stopShapeProgress": [0, 0.022719, 0.043562, 0.066788, 0.080748, 0.124057, 0.15756, 0.189438, 0.231341, 0.264156, 0.293172, 0.314469, 0.359176, 0.417958, 0.466678, 0.489094, 0.532742, 0.554972, 0.607423, 0.636837, 0.740877, 0.876333, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1380,
+            "headwayPeakMin": 30,
+            "headwayOffMin": 60
+          }
+        },
+        {
+          "id": "KRL-B-3",
+          "direction": 1,
+          "headsign": "Jakarta Kota",
+          "headsignEn": "Jakarta Kota",
+          "stopIds": [
+            "ST-NMO",
+            "ST-CBN",
+            "ST-CTA",
+            "ST-DP",
+            "ST-DPB",
+            "ST-POC",
+            "ST-UI",
+            "ST-UP",
+            "ST-LNA",
+            "ST-TNT",
+            "ST-PSM",
+            "ST-PSMB",
+            "ST-DRN",
+            "ST-CW-KRL",
+            "ST-TEB",
+            "ST-MRI",
+            "ST-CKI",
+            "ST-GDD",
+            "ST-JUA",
+            "ST-SWB",
+            "ST-MGB",
+            "ST-JAY",
+            "ST-JAKK"
+          ],
+          "shapeId": "KRL-B-NR",
+          "stopShapeProgress": [0, 0.123647, 0.259078, 0.363094, 0.39247, 0.444927, 0.467197, 0.510808, 0.533273, 0.581941, 0.64071, 0.685391, 0.706683, 0.735727, 0.768536, 0.810486, 0.842359, 0.875811, 0.919119, 0.933103, 0.956302, 0.977174, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1380,
+            "headwayPeakMin": 30,
+            "headwayOffMin": 60
+          }
+        }
+      ]
+    },
+    {
+      "id": "KRL-C",
+      "code": "C",
+      "name": "Commuter Line Cikarang",
+      "nameEn": "Cikarang Commuter Line",
+      "agencyId": "AG-KRL",
+      "mode": "commuter",
+      "color": "#0072bc",
+      "textColor": "#ffffff",
+      "speedKmh": 55,
+      "patterns": [
+        {
+          "id": "KRL-C-0",
+          "direction": 0,
+          "headsign": "Kampung Bandan via Manggarai",
+          "headsignEn": "Kampung Bandan via Manggarai",
+          "stopIds": [
+            "ST-CKR",
+            "ST-MTM",
+            "ST-CIT",
+            "ST-TB",
+            "ST-BKST",
+            "ST-BKS",
+            "ST-KRI",
+            "ST-CUK",
+            "ST-KLDB",
+            "ST-BUA",
+            "ST-KLD",
+            "ST-JNG",
+            "ST-MTR",
+            "ST-MRI",
+            "ST-SUD",
+            "ST-BNC",
+            "ST-THB",
+            "ST-DUR",
+            "ST-AK",
+            "ST-KPB"
+          ],
+          "shapeId": "KRL-C-F",
+          "stopShapeProgress": [0, 0.078401, 0.138934, 0.204987, 0.292117, 0.34229, 0.391226, 0.452469, 0.480838, 0.521159, 0.572345, 0.637109, 0.664007, 0.691696, 0.754477, 0.765029, 0.816793, 0.887852, 0.911439, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1439,
+            "headwayPeakMin": 5,
+            "headwayOffMin": 10
+          }
+        },
+        {
+          "id": "KRL-C-1",
+          "direction": 1,
+          "headsign": "Cikarang via Manggarai",
+          "headsignEn": "Cikarang via Manggarai",
+          "stopIds": [
+            "ST-KPB",
+            "ST-AK",
+            "ST-DUR",
+            "ST-THB",
+            "ST-BNC",
+            "ST-SUD",
+            "ST-MRI",
+            "ST-MTR",
+            "ST-JNG",
+            "ST-KLD",
+            "ST-BUA",
+            "ST-KLDB",
+            "ST-CUK",
+            "ST-KRI",
+            "ST-BKS",
+            "ST-BKST",
+            "ST-TB",
+            "ST-CIT",
+            "ST-MTM",
+            "ST-CKR"
+          ],
+          "shapeId": "KRL-C-R",
+          "stopShapeProgress": [0, 0.088743, 0.112331, 0.183349, 0.235206, 0.245753, 0.308425, 0.336225, 0.363056, 0.427808, 0.478977, 0.519294, 0.547655, 0.608854, 0.657777, 0.707954, 0.795077, 0.861147, 0.921668, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1439,
+            "headwayPeakMin": 5,
+            "headwayOffMin": 10
+          }
+        },
+        {
+          "id": "KRL-C-2",
+          "direction": 0,
+          "headsign": "Kampung Bandan via Pasar Senen",
+          "headsignEn": "Kampung Bandan via Pasar Senen",
+          "stopIds": [
+            "ST-CKR",
+            "ST-MTM",
+            "ST-CIT",
+            "ST-TB",
+            "ST-BKST",
+            "ST-BKS",
+            "ST-KRI",
+            "ST-CUK",
+            "ST-KLDB",
+            "ST-BUA",
+            "ST-KLD",
+            "ST-JNG",
+            "ST-POK",
+            "ST-KMT",
+            "ST-GST",
+            "ST-PSE",
+            "ST-KMY",
+            "ST-RJW",
+            "ST-KPB"
+          ],
+          "shapeId": "KRL-C-SF",
+          "stopShapeProgress": [0, 0.091607, 0.162336, 0.239514, 0.34132, 0.399943, 0.457122, 0.528678, 0.561827, 0.608938, 0.668746, 0.744423, 0.771898, 0.818299, 0.842232, 0.880877, 0.910937, 0.955197, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1439,
+            "headwayPeakMin": 8,
+            "headwayOffMin": 15
+          }
+        },
+        {
+          "id": "KRL-C-3",
+          "direction": 1,
+          "headsign": "Cikarang via Pasar Senen",
+          "headsignEn": "Cikarang via Pasar Senen",
+          "stopIds": [
+            "ST-KPB",
+            "ST-RJW",
+            "ST-KMY",
+            "ST-GST",
+            "ST-KMT",
+            "ST-POK",
+            "ST-JNG",
+            "ST-KLD",
+            "ST-BUA",
+            "ST-KLDB",
+            "ST-CUK",
+            "ST-KRI",
+            "ST-BKS",
+            "ST-BKST",
+            "ST-TB",
+            "ST-CIT",
+            "ST-MTM",
+            "ST-CKR"
+          ],
+          "shapeId": "KRL-C-SR",
+          "stopShapeProgress": [0, 0.044771, 0.089027, 0.157786, 0.181717, 0.228074, 0.25569, 0.331348, 0.391143, 0.438256, 0.471399, 0.542914, 0.600085, 0.658721, 0.760531, 0.83774, 0.908463, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1439,
+            "headwayPeakMin": 8,
+            "headwayOffMin": 15
+          }
+        }
+      ]
+    },
+    {
+      "id": "KRL-R",
+      "code": "R",
+      "name": "Commuter Line Rangkasbitung",
+      "nameEn": "Rangkasbitung Commuter Line",
+      "agencyId": "AG-KRL",
+      "mode": "commuter",
+      "color": "#00a651",
+      "textColor": "#ffffff",
+      "speedKmh": 55,
+      "patterns": [
+        {
+          "id": "KRL-R-0",
+          "direction": 0,
+          "headsign": "Rangkasbitung",
+          "headsignEn": "Rangkasbitung",
+          "stopIds": [
+            "ST-THB",
+            "ST-PLM-KRL",
+            "ST-KBY",
+            "ST-PDJ",
+            "ST-JMG",
+            "ST-SDM",
+            "ST-RWB",
+            "ST-SRP",
+            "ST-CSK",
+            "ST-CC",
+            "ST-JTK",
+            "ST-PRP",
+            "ST-CLJ",
+            "ST-DAR",
+            "ST-TEJ",
+            "ST-TGS",
+            "ST-MJ",
+            "ST-CTR",
+            "ST-RK"
+          ],
+          "shapeId": "KRL-R-F",
+          "stopShapeProgress": [0, 0.045256, 0.096663, 0.182894, 0.213456, 0.240239, 0.302995, 0.321244, 0.359222, 0.394663, 0.415665, 0.475209, 0.572779, 0.609691, 0.662601, 0.704818, 0.765717, 0.86523, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1439,
+            "headwayPeakMin": 8,
+            "headwayOffMin": 15
+          }
+        },
+        {
+          "id": "KRL-R-1",
+          "direction": 1,
+          "headsign": "Tanah Abang",
+          "headsignEn": "Tanah Abang",
+          "stopIds": [
+            "ST-RK",
+            "ST-CTR",
+            "ST-MJ",
+            "ST-TGS",
+            "ST-TEJ",
+            "ST-DAR",
+            "ST-CLJ",
+            "ST-PRP",
+            "ST-JTK",
+            "ST-CC",
+            "ST-CSK",
+            "ST-SRP",
+            "ST-RWB",
+            "ST-SDM",
+            "ST-JMG",
+            "ST-PDJ",
+            "ST-KBY",
+            "ST-PLM-KRL",
+            "ST-THB"
+          ],
+          "shapeId": "KRL-R-R",
+          "stopShapeProgress": [0, 0.134833, 0.234296, 0.295242, 0.337403, 0.390239, 0.427168, 0.52476, 0.584315, 0.60532, 0.64076, 0.678717, 0.696998, 0.759734, 0.786522, 0.817081, 0.903333, 0.954719, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1439,
+            "headwayPeakMin": 8,
+            "headwayOffMin": 15
+          }
+        }
+      ]
+    },
+    {
+      "id": "KRL-T",
+      "code": "T",
+      "name": "Commuter Line Tangerang",
+      "nameEn": "Tangerang Line",
+      "agencyId": "AG-KRL",
+      "mode": "commuter",
+      "color": "#964b00",
+      "textColor": "#ffffff",
+      "speedKmh": 50,
+      "patterns": [
+        {
+          "id": "KRL-T-0",
+          "direction": 0,
+          "headsign": "Tangerang",
+          "headsignEn": "Tangerang",
+          "stopIds": [
+            "ST-DUR",
+            "ST-GGL",
+            "ST-PSG",
+            "ST-TKO",
+            "ST-BOI",
+            "ST-RB",
+            "ST-KDS",
+            "ST-PI",
+            "ST-BPR",
+            "ST-TTI",
+            "ST-TNG"
+          ],
+          "shapeId": "KRL-T-F",
+          "stopShapeProgress": [0, 0.101095, 0.189126, 0.286623, 0.398397, 0.47504, 0.585566, 0.711647, 0.804364, 0.908679, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1439,
+            "headwayPeakMin": 10,
+            "headwayOffMin": 20
+          }
+        },
+        {
+          "id": "KRL-T-1",
+          "direction": 1,
+          "headsign": "Duri",
+          "headsignEn": "Duri",
+          "stopIds": [
+            "ST-TNG",
+            "ST-TTI",
+            "ST-BPR",
+            "ST-PI",
+            "ST-KDS",
+            "ST-RB",
+            "ST-BOI",
+            "ST-TKO",
+            "ST-PSG",
+            "ST-GGL",
+            "ST-DUR"
+          ],
+          "shapeId": "KRL-T-R",
+          "stopShapeProgress": [0, 0.091324, 0.195595, 0.288273, 0.414301, 0.524779, 0.601431, 0.713, 0.810473, 0.89848, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1439,
+            "headwayPeakMin": 10,
+            "headwayOffMin": 20
+          }
+        }
+      ]
+    },
+    {
+      "id": "KRL-TP",
+      "code": "TP",
+      "name": "Commuter Line Tanjung Priok",
+      "nameEn": "Tanjung Priok Line",
+      "agencyId": "AG-KRL",
+      "mode": "commuter",
+      "color": "#f64a8a",
+      "textColor": "#1a1405",
+      "speedKmh": 40,
+      "patterns": [
+        {
+          "id": "KRL-TP-0",
+          "direction": 0,
+          "headsign": "Tanjung Priok",
+          "headsignEn": "Tanjung Priok",
+          "stopIds": [
+            "ST-JAKK",
+            "ST-KPB",
+            "ST-AC",
+            "ST-JIS",
+            "ST-TPK"
+          ],
+          "shapeId": "KRL-TP-F",
+          "stopShapeProgress": [0, 0.180759, 0.420292, 0.661965, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1380,
+            "headwayPeakMin": 20,
+            "headwayOffMin": 30
+          }
+        },
+        {
+          "id": "KRL-TP-1",
+          "direction": 1,
+          "headsign": "Jakarta Kota",
+          "headsignEn": "Jakarta Kota",
+          "stopIds": [
+            "ST-TPK",
+            "ST-JIS",
+            "ST-AC",
+            "ST-KPB",
+            "ST-JAKK"
+          ],
+          "shapeId": "KRL-TP-R",
+          "stopShapeProgress": [0, 0.337921, 0.579589, 0.819535, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1380,
+            "headwayPeakMin": 20,
+            "headwayOffMin": 30
+          }
+        }
+      ]
+    },
+    {
+      "id": "KRL-A",
+      "code": "A",
+      "name": "Commuter Line Bandara Soetta",
+      "nameEn": "Soekarno-Hatta Airport Rail Link",
+      "agencyId": "AG-KRL",
+      "mode": "airport",
+      "color": "#2b82c9",
+      "textColor": "#ffffff",
+      "speedKmh": 60,
+      "patterns": [
+        {
+          "id": "KRL-A-0",
+          "direction": 0,
+          "headsign": "Bandara Soekarno-Hatta",
+          "headsignEn": "Soekarno-Hatta Airport",
+          "stopIds": [
+            "ST-MRI",
+            "ST-SUD",
+            "ST-BNC",
+            "ST-DUR",
+            "ST-RB",
+            "ST-BPR",
+            "ST-BST"
+          ],
+          "shapeId": "KRL-A-F",
+          "stopShapeProgress": [0, 0.083403, 0.097415, 0.260525, 0.513535, 0.686354, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1439,
+            "headwayPeakMin": 20,
+            "headwayOffMin": 30
+          }
+        },
+        {
+          "id": "KRL-A-1",
+          "direction": 1,
+          "headsign": "Manggarai",
+          "headsignEn": "Manggarai",
+          "stopIds": [
+            "ST-BST",
+            "ST-BPR",
+            "ST-RB",
+            "ST-DUR",
+            "ST-BNC",
+            "ST-SUD",
+            "ST-MRI"
+          ],
+          "shapeId": "KRL-A-R",
+          "stopShapeProgress": [0, 0.31389, 0.486548, 0.739671, 0.902717, 0.916717, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1439,
+            "headwayPeakMin": 20,
+            "headwayOffMin": 30
+          }
+        }
+      ]
+    },
+    {
+      "id": "KCIC-W",
+      "code": "KC",
+      "name": "Whoosh Kereta Cepat",
+      "nameEn": "Whoosh High Speed Railway",
+      "agencyId": "AG-KCIC",
+      "mode": "hsr",
+      "color": "#9b1b30",
+      "textColor": "#ffffff",
+      "speedKmh": 180,
+      "patterns": [
+        {
+          "id": "KCIC-W-0",
+          "direction": 0,
+          "headsign": "Tegalluar Summarecon",
+          "headsignEn": "Tegalluar Summarecon",
+          "stopIds": [
+            "ST-HLM",
+            "ST-KRW",
+            "ST-PDL",
+            "ST-TGL"
+          ],
+          "shapeId": "KCIC-W-F",
+          "stopShapeProgress": [0, 0.290929, 0.774092, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1439,
+            "headwayPeakMin": 25,
+            "headwayOffMin": 40
+          }
+        },
+        {
+          "id": "KCIC-W-1",
+          "direction": 1,
+          "headsign": "Halim",
+          "headsignEn": "Halim",
+          "stopIds": [
+            "ST-TGL",
+            "ST-PDL",
+            "ST-KRW",
+            "ST-HLM"
+          ],
+          "shapeId": "KCIC-W-R",
+          "stopShapeProgress": [0, 0.225844, 0.709022, 1],
+          "variant": "local",
+          "service": {
+            "days": "daily",
+            "startMin": 300,
+            "endMin": 1439,
+            "headwayPeakMin": 25,
+            "headwayOffMin": 40
+          }
+        }
+      ]
+    }
+  ]
+}
